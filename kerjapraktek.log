@@ -1,0 +1,2161 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.10.5)  20 OCT 2023 10:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"e:/My Drive/Semester 5/Kerja Praktek/Laporan/Latex/Laporan Kerja Praktek Hafiz Aryan Siregar/kerjapraktek.tex"
+(e:/My Drive/Semester 5/Kerja Praktek/Laporan/Latex/Laporan Kerja Praktek Hafiz Aryan Siregar/kerjapraktek.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (kontrol/uinsuskakerjapraktek.sty (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count194
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count196
+\Hy@pagecounter=\count197
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count198
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `final' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count199
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen142
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count266
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count267
+\c@Item=\count268
+\c@Hfootnote=\count269
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count270
+\c@bookmark@seq@number=\count271
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip50
+)
+
+Package hyperref Warning: Option `a4paper' is no longer used.
+
+Package hyperref Info: Option `colorlinks' set `false' on input line 30.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 30.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 30.
+(C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count272
+\multirow@dima=\skip52
+\bigstrutjot=\dimen145
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks18
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen156
+\captionmargin=\dimen157
+\caption@leftmargin=\dimen158
+\caption@rightmargin=\dimen159
+\caption@width=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+Package caption Info: hyperref package is loaded.
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen164
+)) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count278
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count279
+\leftroot@=\count280
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count281
+\DOTSCASE@=\count282
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count283
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count284
+\dotsspace@=\muskip17
+\c@parentequation=\count285
+\dspbrk@lvl=\count286
+\tag@help=\toks20
+\row@=\count287
+\column@=\count288
+\maxfields@=\count289
+\andhelp@=\toks21
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks22
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/pslatex\pslatex.sty
+Package: pslatex 2021/01/13 v1.3 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 67.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 68.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 69.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 69.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 69.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 76.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 76.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 76.
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count290
+\calc@Bcount=\count291
+\calc@Adimen=\dimen173
+\calc@Bdimen=\dimen174
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count292
+\calc@Cskip=\skip67
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen175
+\ESO@tempdimb=\dimen176
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+\AM@pagewidth=\dimen177
+\AM@pageheight=\dimen178
+\AM@fboxrule=\dimen179
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count293
+\AM@pagebox=\box53
+\AM@global@opts=\toks24
+\AM@pagecnt=\count294
+\AM@toc@title=\toks25
+\AM@lof@heading=\toks26
+\c@AM@survey=\count295
+\AM@templatesizebox=\box54
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box55
+\extrarowheight=\dimen181
+\NC@list=\toks27
+\extratabsurround=\skip68
+\backup@length=\skip69
+\ar@cellbox=\box56
+)
+\everycr=\toks28
+\minrowclearance=\skip70
+\rownum=\count296
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count297
+\float@exts=\toks29
+\float@box=\box57
+\@float@everytoks=\toks30
+\@floatcapt=\box58
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count298
+\bibleftmargin=\skip71
+\bibindent=\skip72
+\bibparsep=\skip73
+\bibitemsep=\skip74
+\biblabelsep=\skip75
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box59
+\beforetitleunit=\skip76
+\aftertitleunit=\skip77
+\ttl@plus=\dimen182
+\ttl@minus=\dimen183
+\ttl@toksa=\toks31
+\titlewidth=\dimen184
+\titlewidthlast=\dimen185
+\titlewidthfirst=\dimen186
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-08-29 L3 programming layer (loader) 
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box60
+))
+Package: l3keys2e 2023-08-29 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count300
+\l__lipsum_a_int=\count301
+\l__lipsum_b_int=\count302
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip78
+\enit@outerparindent=\dimen187
+\enit@toks=\toks32
+\enit@inbox=\box61
+\enit@count@id=\count303
+\enitdp@description=\count304
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count305
+\c@@ppsavesec=\count306
+\c@@ppsaveapp=\count307
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen188
+\WF@size=\dimen189
+\c@WF@wrappedlines=\count308
+\WF@box=\box62
+\WF@everypar=\toks33
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip79
+\LTright=\skip80
+\LTpre=\skip81
+\LTpost=\skip82
+\LTchunksize=\count309
+\LTcapwidth=\dimen190
+\LT@head=\box63
+\LT@firsthead=\box64
+\LT@foot=\box65
+\LT@lastfoot=\box66
+\LT@gbox=\box67
+\LT@cols=\count310
+\LT@rows=\count311
+\c@LT@tables=\count312
+\c@LT@chunks=\count313
+\LT@p@ftn=\toks34
+)) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (kontrol/laporan_setting.tex) (konfigurasi/datakerjapraktek.tex) (kerjapraktek.aux (kontrol/cover.aux) (kontrol/lembarPengesahanInstansi.aux) (kontrol/lembarPengesahanProdi.aux) (halamandepan/kataPengantar.aux) (halamandepan/abstrak.aux) (halamandepan/abstrakInggris.aux) (konten/bab1.aux) (konten/bab2.aux) (konten/bab3.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (konten/bab4.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (konten/bab5.aux) (halamanbelakang/lampiranA.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (halamanbelakang/lampiranB.aux) (halamanbelakang/lampiranC.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (halamanbelakang/lampiranD.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (halamanbelakang/daftarRiwayatHidup.aux))
+\openout1 = `kerjapraktek.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 23.
+LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line 23.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+Package hyperref Info: Link coloring OFF on input line 23.
+ (kerjapraktek.out) (kerjapraktek.out)
+\@outlinefile=\write3
+\openout3 = `kerjapraktek.out'.
+
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count314
+\scratchdimen=\dimen191
+\scratchbox=\box68
+\nofMPsegments=\count315
+\nofMParguments=\count316
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count317
+\MPscratchDim=\dimen192
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
+\everyMPtoPDFconversion=\toks36
+) (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 398.3386pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 645.87756pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.33858pt
+* \textheight=662.9493pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-14.22636pt
+* \headheight=0.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=42.67912pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+(C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+\c@maskedRefs=\count320
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+\openout2 = `kontrol/cover.aux'.
+
+ (kontrol/cover.tex
+LaTeX Font Info:    Calculating math sizes for size <13.5> on input line 29.
+LaTeX Font Info:    Trying to load font information for OT1+ptmcm on input line 29.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ptmcm on input line 29.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+psycm on input line 29.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.44995> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.75> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<kontrol/gambar/logouin.png, id=263, 289.08pt x 291.0875pt>
+File: kontrol/gambar/logouin.png Graphic file (type png)
+<use kontrol/gambar/logouin.png>
+Package pdftex.def Info: kontrol/gambar/logouin.png  used on input line 35.
+(pdftex.def)             Requested size: 147.95375pt x 147.95518pt.
+ [1
+
+
+{C:/Users/hafiz_xz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/hafiz_xz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./kontrol/gambar/logouin.png>])
+\openout2 = `kontrol/lembarPengesahanInstansi.aux'.
+
+ (kontrol/lembarPengesahanInstansi.tex
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 34.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.79996> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+) [2
+
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 56.
+
+\openout2 = `kontrol/lembarPengesahanProdi.aux'.
+
+(kontrol/lembarPengesahanProdi.tex [3
+
+
+
+
+]) [4]
+\openout2 = `halamandepan/kataPengantar.aux'.
+
+ (halamandepan/kataPengantar.tex [5
+
+
+
+
+]) [6]
+\openout2 = `halamandepan/abstrak.aux'.
+
+ (halamandepan/abstrak.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 15--56
+
+ []
+
+[7
+
+
+
+]
+\openout2 = `halamandepan/abstrakInggris.aux'.
+
+ (halamandepan/abstrakInggris.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 15--56
+
+ []
+
+[8
+
+
+
+] (kerjapraktek.toc [9
+
+
+
+] [10])
+\tf@toc=\write4
+\openout4 = `kerjapraktek.toc'.
+
+ [11] (kerjapraktek.lof [12
+
+
+] [13] [14]
+Overfull \hbox (6.89925pt too wide) detected at line 146
+ [] []\OT1/ptm/m/n/12 A - 2[]
+ []
+
+
+Overfull \hbox (6.2392pt too wide) detected at line 149
+ [] []\OT1/ptm/m/n/12 C - 1[]
+ []
+
+
+Overfull \hbox (6.2392pt too wide) detected at line 150
+ [] []\OT1/ptm/m/n/12 C - 1[]
+ []
+
+
+Overfull \hbox (6.89925pt too wide) detected at line 152
+ [] []\OT1/ptm/m/n/12 D - 1[]
+ []
+
+)
+\tf@lof=\write5
+\openout5 = `kerjapraktek.lof'.
+
+ [15] (kerjapraktek.lot)
+\tf@lot=\write6
+\openout6 = `kerjapraktek.lot'.
+
+ [16
+
+
+]
+\openout2 = `konten/bab1.aux'.
+
+ (konten/bab1.tex
+BAB 1.
+
+Underfull \hbox (badness 4713) in paragraph at lines 22--23
+[]\OT1/ptm/m/n/12 Laboratorium meru-pakan tem-pat yang di-gu-nakan ma-ha-siswa un-tuk
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 
+      [1
+
+
+
+] [2]
+Underfull \hbox (badness 2351) in paragraph at lines 43--44
+[]\OT1/ptm/m/n/12 Implementasi sis-tem ini di-lakukan den-gan meng-gu-nakan \OT1/ptm/m/it/12 Frame-work
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 69--70
+[]\OT1/ptm/m/n/12 Dengan demikian, pengem-ban-gan sis-tem in-for-masi in-ven-taris den-gan
+ []
+
+[3]) [4]
+\openout2 = `konten/bab2.aux'.
+
+ (konten/bab2.tex
+BAB 2.
+
+Underfull \hbox (badness 1478) in paragraph at lines 28--29
+[]\OT1/ptm/m/n/12 Untuk men-ca-pai Visi Lab-o-ra-to-rium Pro-gram Studi Sis-tem In-for-masi,
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 33--34
+[]\OT1/ptm/m/n/12 Mendukung pelak-sanaan kegiatan peneli-tian yang berba-sis teknologi
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 34--35
+[]\OT1/ptm/m/n/12 Mendukung kegiatan pengab-dian kepada masyarakat yang berba-sis
+ []
+
+[5
+
+
+
+
+]
+<konten//gambar/Struktur Organisasi.png, id=961, 406.01688pt x 305.14pt>
+File: konten//gambar/Struktur Organisasi.png Graphic file (type png)
+<use konten//gambar/Struktur Organisasi.png>
+Package pdftex.def Info: konten//gambar/Struktur Organisasi.png  used on input line 46.
+(pdftex.def)             Requested size: 326.64055pt x 245.49051pt.
+ [6 <./konten//gambar/Struktur Organisasi.png>] [7]
+Underfull \hbox (badness 1448) in paragraph at lines 90--92
+\OT1/ptm/m/n/12 tur yang di-gu-nakan un-tuk memu-dahkan pengem-ban-gan ap-likasi atau sis-tem
+ []
+
+[8]) [9] [10]
+\openout2 = `konten/bab3.aux'.
+
+ (konten/bab3.tex
+BAB 3.
+<konten//gambar/kegiatan kerja praktek.png, id=1032, 744.53156pt x 418.56375pt>
+File: konten//gambar/kegiatan kerja praktek.png Graphic file (type png)
+<use konten//gambar/kegiatan kerja praktek.png>
+Package pdftex.def Info: konten//gambar/kegiatan kerja praktek.png  used on input line 30.
+(pdftex.def)             Requested size: 326.64055pt x 183.6385pt.
+[11
+
+
+
+
+ <./konten//gambar/kegiatan kerja praktek.png>]
+<konten//gambar/metodologi kerja praktek.png, id=1040, 370.38374pt x 208.27812pt>
+File: konten//gambar/metodologi kerja praktek.png Graphic file (type png)
+<use konten//gambar/metodologi kerja praktek.png>
+Package pdftex.def Info: konten//gambar/metodologi kerja praktek.png  used on input line 52.
+(pdftex.def)             Requested size: 326.64055pt x 183.68256pt.
+ [12 <./konten//gambar/metodologi kerja praktek.png>]) [13]
+\openout2 = `konten/bab4.aux'.
+
+ (konten/bab4.tex
+BAB 4.
+[14
+
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 84.
+ (C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 93--94
+[]\OT1/ptm/m/n/12 Implementasi pada lingkun-gan \OT1/ptm/m/it/12 soft-ware \OT1/ptm/m/n/12 adalah im-ple-men-tasi pada
+ []
+
+[15]
+Underfull \hbox (badness 1565) in paragraph at lines 112--113
+[]\OT1/ptm/m/it/12 Database \OT1/ptm/m/n/12 Sis-tem in-for-masi in-ven-taris lab-o-ra-to-rium bernama mab[]lab.
+ []
+
+<konten//gambar/Tampilan tabel-tabel database.png, id=1084, 703.62875pt x 382.42876pt>
+File: konten//gambar/Tampilan tabel-tabel database.png Graphic file (type png)
+<use konten//gambar/Tampilan tabel-tabel database.png>
+Package pdftex.def Info: konten//gambar/Tampilan tabel-tabel database.png  used on input line 116.
+(pdftex.def)             Requested size: 326.64055pt x 177.52992pt.
+[16]
+<konten//gambar/Tampilan database tabel barang.png, id=1090, 706.13812pt x 431.11063pt>
+File: konten//gambar/Tampilan database tabel barang.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel barang.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel barang.png  used on input line 126.
+(pdftex.def)             Requested size: 326.64055pt x 199.41843pt.
+ [17 <./konten//gambar/Tampilan tabel-tabel database.png>]
+Underfull \hbox (badness 1132) in paragraph at lines 131--133
+[]\OT1/ptm/m/n/12 Struktur Tabel Doku-men-tasi Pada tabel data doku-men-tasi ter-diri dari
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 131--133
+\OT1/ptm/m/n/12 kolom id[]file yang men-jadi kunci utama dari tabel terse-but yang
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 131--133
+\OT1/ptm/m/n/12 di-gu-nakan se-ba-gai penanda agar tidak ter-jadi du-p-likasi data, kat-e-
+ []
+
+<konten//gambar/Tampilan database tabel dokumentasi.png, id=1097, 757.83125pt x 270.51062pt>
+File: konten//gambar/Tampilan database tabel dokumentasi.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel dokumentasi.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel dokumentasi.png  used on input line 136.
+(pdftex.def)             Requested size: 326.64055pt x 116.59798pt.
+
+Underfull \hbox (badness 2253) in paragraph at lines 141--143
+[]\OT1/ptm/m/n/12 Struktur Tabel Fakul-tas Pada tabel data fakul-tas ter-diri dari kolom
+ []
+
+[18 <./konten//gambar/Tampilan database tabel barang.png> <./konten//gambar/Tampilan database tabel dokumentasi.png>]
+<konten//gambar/Tampilan database tabel fakultas.png, id=1106, 679.03688pt x 90.83937pt>
+File: konten//gambar/Tampilan database tabel fakultas.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel fakultas.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel fakultas.png  used on input line 146.
+(pdftex.def)             Requested size: 326.64055pt x 43.69664pt.
+<konten//gambar/Tampilan database tabel gedung.png, id=1107, 690.58pt x 149.55875pt>
+File: konten//gambar/Tampilan database tabel gedung.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel gedung.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel gedung.png  used on input line 156.
+(pdftex.def)             Requested size: 326.64055pt x 70.7399pt.
+<konten//gambar/Tampilan database tabel maintenance.png, id=1108, 700.11563pt x 246.42062pt>
+File: konten//gambar/Tampilan database tabel maintenance.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel maintenance.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel maintenance.png  used on input line 166.
+(pdftex.def)             Requested size: 326.64055pt x 114.96791pt.
+ [19 <./konten//gambar/Tampilan database tabel fakultas.png> <./konten//gambar/Tampilan database tabel gedung.png>]
+<konten//gambar/Tampilan database tabel peminjaman_barang.png, id=1117, 663.98062pt x 385.44pt>
+File: konten//gambar/Tampilan database tabel peminjaman_barang.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel peminjaman_barang.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel peminjaman_barang.png  used on input line 176.
+(pdftex.def)             Requested size: 326.64055pt x 189.61418pt.
+ [20 <./konten//gambar/Tampilan database tabel maintenance.png>]
+<konten//gambar/Tampilan database tabel peminjaman_ruangan.png, id=1124, 768.8725pt x 384.43625pt>
+File: konten//gambar/Tampilan database tabel peminjaman_ruangan.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel peminjaman_ruangan.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel peminjaman_ruangan.png  used on input line 186.
+(pdftex.def)             Requested size: 326.64055pt x 163.32164pt.
+ [21 <./konten//gambar/Tampilan database tabel peminjaman_barang.png>]
+<konten//gambar/Tampilan database tabel pemusnahan_barang.png, id=1132, 581.17125pt x 182.6825pt>
+File: konten//gambar/Tampilan database tabel pemusnahan_barang.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel pemusnahan_barang.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel pemusnahan_barang.png  used on input line 197.
+(pdftex.def)             Requested size: 326.64055pt x 102.67502pt.
+<konten//gambar/Tampilan database tabel pendanaan.png, id=1133, 579.66562pt x 105.39375pt>
+File: konten//gambar/Tampilan database tabel pendanaan.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel pendanaan.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel pendanaan.png  used on input line 207.
+(pdftex.def)             Requested size: 326.64055pt x 59.38997pt.
+ [22 <./konten//gambar/Tampilan database tabel peminjaman_ruangan.png> <./konten//gambar/Tampilan database tabel pemusnahan_barang.png>]
+<konten//gambar/Tampilan database tabel prodi.png, id=1142, 564.1075pt x 99.87312pt>
+File: konten//gambar/Tampilan database tabel prodi.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel prodi.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel prodi.png  used on input line 217.
+(pdftex.def)             Requested size: 326.64055pt x 57.83044pt.
+
+Underfull \hbox (badness 1112) in paragraph at lines 222--224
+[]\OT1/ptm/m/n/12 Struktur Tabel Ref-er-ensi Pada tabel data ref-er-ensi ter-diri dari kolom
+ []
+
+<konten//gambar/Tampilan database tabel referensi.png, id=1143, 514.92375pt x 80.80188pt>
+File: konten//gambar/Tampilan database tabel referensi.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel referensi.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel referensi.png  used on input line 227.
+(pdftex.def)             Requested size: 326.64055pt x 51.25806pt.
+
+Underfull \hbox (badness 1859) in paragraph at lines 232--234
+[]\OT1/ptm/m/n/12 Struktur Tabel Ru-an-gan Pada tabel data ru-an-gan ter-diri dari kolom
+ []
+
+<konten//gambar/Tampilan database tabel ruangan.png, id=1144, 871.75688pt x 233.37187pt>
+File: konten//gambar/Tampilan database tabel ruangan.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel ruangan.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel ruangan.png  used on input line 237.
+(pdftex.def)             Requested size: 326.64055pt x 87.44301pt.
+[23 <./konten//gambar/Tampilan database tabel pendanaan.png> <./konten//gambar/Tampilan database tabel prodi.png> <./konten//gambar/Tampilan database tabel referensi.png>]
+<konten//gambar/Tampilan database tabel user.png, id=1155, 694.09312pt x 227.34938pt>
+File: konten//gambar/Tampilan database tabel user.png Graphic file (type png)
+<use konten//gambar/Tampilan database tabel user.png>
+Package pdftex.def Info: konten//gambar/Tampilan database tabel user.png  used on input line 247.
+(pdftex.def)             Requested size: 326.64055pt x 106.99298pt.
+<konten//gambar/routes barang.png, id=1158, 1110.39844pt x 527.72156pt>
+File: konten//gambar/routes barang.png Graphic file (type png)
+<use konten//gambar/routes barang.png>
+Package pdftex.def Info: konten//gambar/routes barang.png  used on input line 264.
+(pdftex.def)             Requested size: 326.64055pt x 155.23363pt.
+ [24 <./konten//gambar/Tampilan database tabel ruangan.png> <./konten//gambar/Tampilan database tabel user.png>]
+<konten//gambar/routes dokumentasi.png, id=1167, 1076.52188pt x 384.6872pt>
+File: konten//gambar/routes dokumentasi.png Graphic file (type png)
+<use konten//gambar/routes dokumentasi.png>
+Package pdftex.def Info: konten//gambar/routes dokumentasi.png  used on input line 273.
+(pdftex.def)             Requested size: 326.64055pt x 116.7219pt.
+<konten//gambar/routes fakultas.png, id=1168, 904.1278pt x 295.85532pt>
+File: konten//gambar/routes fakultas.png Graphic file (type png)
+<use konten//gambar/routes fakultas.png>
+Package pdftex.def Info: konten//gambar/routes fakultas.png  used on input line 282.
+(pdftex.def)             Requested size: 326.64055pt x 106.88252pt.
+<konten//gambar/routes gedung.png, id=1169, 855.195pt x 296.60812pt>
+File: konten//gambar/routes gedung.png Graphic file (type png)
+<use konten//gambar/routes gedung.png>
+Package pdftex.def Info: konten//gambar/routes gedung.png  used on input line 291.
+(pdftex.def)             Requested size: 326.64055pt x 113.28703pt.
+ [25 <./konten//gambar/routes barang.png> <./konten//gambar/routes dokumentasi.png> <./konten//gambar/routes fakultas.png>]
+<konten//gambar/routes maintenance.png, id=1180, 1061.46562pt x 328.22626pt>
+File: konten//gambar/routes maintenance.png Graphic file (type png)
+<use konten//gambar/routes maintenance.png>
+Package pdftex.def Info: konten//gambar/routes maintenance.png  used on input line 300.
+(pdftex.def)             Requested size: 326.64055pt x 101.00284pt.
+<konten//gambar/routes peminjaman barang.png, id=1181, 1213.53375pt x 670.00313pt>
+File: konten//gambar/routes peminjaman barang.png Graphic file (type png)
+<use konten//gambar/routes peminjaman barang.png>
+Package pdftex.def Info: konten//gambar/routes peminjaman barang.png  used on input line 309.
+(pdftex.def)             Requested size: 326.64055pt x 180.34097pt.
+<konten//gambar/routes peminjaman ruangan.png, id=1182, 1297.09593pt x 466.74374pt>
+File: konten//gambar/routes peminjaman ruangan.png Graphic file (type png)
+<use konten//gambar/routes peminjaman ruangan.png>
+Package pdftex.def Info: konten//gambar/routes peminjaman ruangan.png  used on input line 318.
+(pdftex.def)             Requested size: 326.64055pt x 117.53316pt.
+ [26 <./konten//gambar/routes gedung.png> <./konten//gambar/routes maintenance.png> <./konten//gambar/routes peminjaman barang.png>]
+<konten//gambar/routes pemusnahan barang.png, id=1193, 1201.48875pt x 384.6872pt>
+File: konten//gambar/routes pemusnahan barang.png Graphic file (type png)
+<use konten//gambar/routes pemusnahan barang.png>
+Package pdftex.def Info: konten//gambar/routes pemusnahan barang.png  used on input line 327.
+(pdftex.def)             Requested size: 326.64055pt x 104.58304pt.
+<konten//gambar/routes pendanaan.png, id=1194, 924.45375pt x 300.3722pt>
+File: konten//gambar/routes pendanaan.png Graphic file (type png)
+<use konten//gambar/routes pendanaan.png>
+Package pdftex.def Info: konten//gambar/routes pendanaan.png  used on input line 336.
+(pdftex.def)             Requested size: 326.64055pt x 106.131pt.
+<konten//gambar/routes prodi.png, id=1195, 832.61063pt x 299.61937pt>
+File: konten//gambar/routes prodi.png Graphic file (type png)
+<use konten//gambar/routes prodi.png>
+Package pdftex.def Info: konten//gambar/routes prodi.png  used on input line 345.
+(pdftex.def)             Requested size: 326.64055pt x 117.54143pt.
+ [27 <./konten//gambar/routes peminjaman ruangan.png> <./konten//gambar/routes pemusnahan barang.png> <./konten//gambar/routes pendanaan.png>]
+<konten//gambar/routes ruangan.png, id=1207, 878.53218pt x 299.61937pt>
+File: konten//gambar/routes ruangan.png Graphic file (type png)
+<use konten//gambar/routes ruangan.png>
+Package pdftex.def Info: konten//gambar/routes ruangan.png  used on input line 354.
+(pdftex.def)             Requested size: 326.64055pt x 111.40147pt.
+<konten//gambar/routes user.png, id=1208, 872.50969pt x 386.19281pt>
+File: konten//gambar/routes user.png Graphic file (type png)
+<use konten//gambar/routes user.png>
+Package pdftex.def Info: konten//gambar/routes user.png  used on input line 363.
+(pdftex.def)             Requested size: 326.64055pt x 144.57443pt.
+ [28 <./konten//gambar/routes prodi.png> <./konten//gambar/routes ruangan.png> <./konten//gambar/routes user.png>]
+<konten//gambar/barang model.png, id=1221, 963.6pt x 566.115pt>
+File: konten//gambar/barang model.png Graphic file (type png)
+<use konten//gambar/barang model.png>
+Package pdftex.def Info: konten//gambar/barang model.png  used on input line 377.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+<konten//gambar/dokumentasi model.png, id=1222, 963.6pt x 565.61313pt>
+File: konten//gambar/dokumentasi model.png Graphic file (type png)
+<use konten//gambar/dokumentasi model.png>
+Package pdftex.def Info: konten//gambar/dokumentasi model.png  used on input line 386.
+(pdftex.def)             Requested size: 326.64055pt x 191.72766pt.
+<konten//gambar/fakultas model.png, id=1223, 963.6pt x 566.115pt>
+File: konten//gambar/fakultas model.png Graphic file (type png)
+<use konten//gambar/fakultas model.png>
+Package pdftex.def Info: konten//gambar/fakultas model.png  used on input line 395.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+ [29 <./konten//gambar/barang model.png> <./konten//gambar/dokumentasi model.png>]
+<konten//gambar/gedung model.png, id=1233, 963.6pt x 567.11874pt>
+File: konten//gambar/gedung model.png Graphic file (type png)
+<use konten//gambar/gedung model.png>
+Package pdftex.def Info: konten//gambar/gedung model.png  used on input line 404.
+(pdftex.def)             Requested size: 326.64055pt x 192.23804pt.
+<konten//gambar/maintenance model.png, id=1234, 963.6pt x 566.61688pt>
+File: konten//gambar/maintenance model.png Graphic file (type png)
+<use konten//gambar/maintenance model.png>
+Package pdftex.def Info: konten//gambar/maintenance model.png  used on input line 413.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+ [30 <./konten//gambar/fakultas model.png> <./konten//gambar/gedung model.png>]
+<konten//gambar/peminjaman barang model.png, id=1243, 963.6pt x 566.61688pt>
+File: konten//gambar/peminjaman barang model.png Graphic file (type png)
+<use konten//gambar/peminjaman barang model.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang model.png  used on input line 422.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+<konten//gambar/peminjaman ruangan model.png, id=1244, 963.6pt x 565.61313pt>
+File: konten//gambar/peminjaman ruangan model.png Graphic file (type png)
+<use konten//gambar/peminjaman ruangan model.png>
+Package pdftex.def Info: konten//gambar/peminjaman ruangan model.png  used on input line 431.
+(pdftex.def)             Requested size: 326.64055pt x 191.72766pt.
+ [31 <./konten//gambar/maintenance model.png> <./konten//gambar/peminjaman barang model.png>]
+<konten//gambar/pemusnahan barang model.png, id=1253, 963.6pt x 566.61688pt>
+File: konten//gambar/pemusnahan barang model.png Graphic file (type png)
+<use konten//gambar/pemusnahan barang model.png>
+Package pdftex.def Info: konten//gambar/pemusnahan barang model.png  used on input line 440.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+<konten//gambar/pendanaan model.png, id=1254, 963.6pt x 566.115pt>
+File: konten//gambar/pendanaan model.png Graphic file (type png)
+<use konten//gambar/pendanaan model.png>
+Package pdftex.def Info: konten//gambar/pendanaan model.png  used on input line 449.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+ [32 <./konten//gambar/peminjaman ruangan model.png> <./konten//gambar/pemusnahan barang model.png>]
+<konten//gambar/prodi model.png, id=1263, 963.6pt x 567.11874pt>
+File: konten//gambar/prodi model.png Graphic file (type png)
+<use konten//gambar/prodi model.png>
+Package pdftex.def Info: konten//gambar/prodi model.png  used on input line 458.
+(pdftex.def)             Requested size: 326.64055pt x 192.23804pt.
+<konten//gambar/referensi model.png, id=1264, 963.6pt x 567.11874pt>
+File: konten//gambar/referensi model.png Graphic file (type png)
+<use konten//gambar/referensi model.png>
+Package pdftex.def Info: konten//gambar/referensi model.png  used on input line 467.
+(pdftex.def)             Requested size: 326.64055pt x 192.23804pt.
+ [33 <./konten//gambar/pendanaan model.png> <./konten//gambar/prodi model.png>]
+<konten//gambar/ruangan model.png, id=1274, 963.6pt x 566.61688pt>
+File: konten//gambar/ruangan model.png Graphic file (type png)
+<use konten//gambar/ruangan model.png>
+Package pdftex.def Info: konten//gambar/ruangan model.png  used on input line 476.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+<konten//gambar/user model.png, id=1275, 963.6pt x 566.61688pt>
+File: konten//gambar/user model.png Graphic file (type png)
+<use konten//gambar/user model.png>
+Package pdftex.def Info: konten//gambar/user model.png  used on input line 485.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+ [34 <./konten//gambar/referensi model.png> <./konten//gambar/ruangan model.png>]
+Underfull \hbox (badness 1810) in paragraph at lines 493--494
+[]\OT1/ptm/m/it/12 View \OT1/ptm/m/n/12 adalah kom-po-nen yang menampilkan an-tar-muka peng-guna dan
+ []
+
+<konten//gambar/view barang.png, id=1286, 963.6pt x 566.115pt>
+File: konten//gambar/view barang.png Graphic file (type png)
+<use konten//gambar/view barang.png>
+Package pdftex.def Info: konten//gambar/view barang.png  used on input line 499.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+<konten//gambar/view dokumentasi.png, id=1287, 963.6pt x 568.1225pt>
+File: konten//gambar/view dokumentasi.png Graphic file (type png)
+<use konten//gambar/view dokumentasi.png>
+Package pdftex.def Info: konten//gambar/view dokumentasi.png  used on input line 507.
+(pdftex.def)             Requested size: 326.64055pt x 192.57828pt.
+[35 <./konten//gambar/user model.png> <./konten//gambar/view barang.png>]
+<konten//gambar/view fakultas.png, id=1296, 963.6pt x 566.115pt>
+File: konten//gambar/view fakultas.png Graphic file (type png)
+<use konten//gambar/view fakultas.png>
+Package pdftex.def Info: konten//gambar/view fakultas.png  used on input line 515.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+<konten//gambar/view gedung.png, id=1297, 963.6pt x 566.61688pt>
+File: konten//gambar/view gedung.png Graphic file (type png)
+<use konten//gambar/view gedung.png>
+Package pdftex.def Info: konten//gambar/view gedung.png  used on input line 523.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+ [36 <./konten//gambar/view dokumentasi.png> <./konten//gambar/view fakultas.png>]
+<konten//gambar/view maintenance.png, id=1306, 963.6pt x 565.61313pt>
+File: konten//gambar/view maintenance.png Graphic file (type png)
+<use konten//gambar/view maintenance.png>
+Package pdftex.def Info: konten//gambar/view maintenance.png  used on input line 531.
+(pdftex.def)             Requested size: 326.64055pt x 191.72766pt.
+<konten//gambar/view peminjaman_barang.png, id=1307, 963.6pt x 566.115pt>
+File: konten//gambar/view peminjaman_barang.png Graphic file (type png)
+<use konten//gambar/view peminjaman_barang.png>
+Package pdftex.def Info: konten//gambar/view peminjaman_barang.png  used on input line 539.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+ [37 <./konten//gambar/view gedung.png> <./konten//gambar/view maintenance.png>]
+<konten//gambar/view peminjaman_ruangan.png, id=1316, 963.6pt x 566.61688pt>
+File: konten//gambar/view peminjaman_ruangan.png Graphic file (type png)
+<use konten//gambar/view peminjaman_ruangan.png>
+Package pdftex.def Info: konten//gambar/view peminjaman_ruangan.png  used on input line 547.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+<konten//gambar/view pemusnahan_barang.png, id=1317, 963.6pt x 565.11125pt>
+File: konten//gambar/view pemusnahan_barang.png Graphic file (type png)
+<use konten//gambar/view pemusnahan_barang.png>
+Package pdftex.def Info: konten//gambar/view pemusnahan_barang.png  used on input line 555.
+(pdftex.def)             Requested size: 326.64055pt x 191.55754pt.
+ [38 <./konten//gambar/view peminjaman_barang.png> <./konten//gambar/view peminjaman_ruangan.png>]
+<konten//gambar/view pendanaan.png, id=1326, 963.6pt x 567.11874pt>
+File: konten//gambar/view pendanaan.png Graphic file (type png)
+<use konten//gambar/view pendanaan.png>
+Package pdftex.def Info: konten//gambar/view pendanaan.png  used on input line 563.
+(pdftex.def)             Requested size: 326.64055pt x 192.23804pt.
+<konten//gambar/view prodi.png, id=1327, 963.6pt x 566.61688pt>
+File: konten//gambar/view prodi.png Graphic file (type png)
+<use konten//gambar/view prodi.png>
+Package pdftex.def Info: konten//gambar/view prodi.png  used on input line 571.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+ [39 <./konten//gambar/view pemusnahan_barang.png> <./konten//gambar/view pendanaan.png>]
+<konten//gambar/view ruangan.png, id=1337, 963.6pt x 567.11874pt>
+File: konten//gambar/view ruangan.png Graphic file (type png)
+<use konten//gambar/view ruangan.png>
+Package pdftex.def Info: konten//gambar/view ruangan.png  used on input line 579.
+(pdftex.def)             Requested size: 326.64055pt x 192.23804pt.
+<konten//gambar/view user.png, id=1338, 962.09438pt x 560.0925pt>
+File: konten//gambar/view user.png Graphic file (type png)
+<use konten//gambar/view user.png>
+Package pdftex.def Info: konten//gambar/view user.png  used on input line 587.
+(pdftex.def)             Requested size: 326.64055pt x 190.15544pt.
+ [40 <./konten//gambar/view prodi.png> <./konten//gambar/view ruangan.png>]
+<konten//gambar/barang controller.png, id=1349, 963.6pt x 566.61688pt>
+File: konten//gambar/barang controller.png Graphic file (type png)
+<use konten//gambar/barang controller.png>
+Package pdftex.def Info: konten//gambar/barang controller.png  used on input line 602.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+<konten//gambar/dokumentasi controller.png, id=1350, 961.5925pt x 559.59062pt>
+File: konten//gambar/dokumentasi controller.png Graphic file (type png)
+<use konten//gambar/dokumentasi controller.png>
+Package pdftex.def Info: konten//gambar/dokumentasi controller.png  used on input line 611.
+(pdftex.def)             Requested size: 326.64055pt x 190.08751pt.
+ [41 <./konten//gambar/view user.png> <./konten//gambar/barang controller.png>]
+<konten//gambar/fakultas controller.png, id=1360, 963.6pt x 566.115pt>
+File: konten//gambar/fakultas controller.png Graphic file (type png)
+<use konten//gambar/fakultas controller.png>
+Package pdftex.def Info: konten//gambar/fakultas controller.png  used on input line 620.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+<konten//gambar/gedung controller.png, id=1361, 963.6pt x 566.115pt>
+File: konten//gambar/gedung controller.png Graphic file (type png)
+<use konten//gambar/gedung controller.png>
+Package pdftex.def Info: konten//gambar/gedung controller.png  used on input line 629.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+ [42 <./konten//gambar/dokumentasi controller.png> <./konten//gambar/fakultas controller.png>]
+<konten//gambar/maintenance controller.png, id=1370, 963.6pt x 566.61688pt>
+File: konten//gambar/maintenance controller.png Graphic file (type png)
+<use konten//gambar/maintenance controller.png>
+Package pdftex.def Info: konten//gambar/maintenance controller.png  used on input line 638.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+<konten//gambar/peminjaman barang controller.png, id=1371, 963.6pt x 566.61688pt>
+File: konten//gambar/peminjaman barang controller.png Graphic file (type png)
+<use konten//gambar/peminjaman barang controller.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang controller.png  used on input line 647.
+(pdftex.def)             Requested size: 326.64055pt x 192.06792pt.
+ [43 <./konten//gambar/gedung controller.png> <./konten//gambar/maintenance controller.png>]
+<konten//gambar/peminjaman ruangan controller.png, id=1380, 963.6pt x 567.62062pt>
+File: konten//gambar/peminjaman ruangan controller.png Graphic file (type png)
+<use konten//gambar/peminjaman ruangan controller.png>
+Package pdftex.def Info: konten//gambar/peminjaman ruangan controller.png  used on input line 656.
+(pdftex.def)             Requested size: 326.64055pt x 192.40814pt.
+<konten//gambar/pemusnahan barang controller.png, id=1381, 963.6pt x 567.11874pt>
+File: konten//gambar/pemusnahan barang controller.png Graphic file (type png)
+<use konten//gambar/pemusnahan barang controller.png>
+Package pdftex.def Info: konten//gambar/pemusnahan barang controller.png  used on input line 665.
+(pdftex.def)             Requested size: 326.64055pt x 192.23804pt.
+ [44 <./konten//gambar/peminjaman barang controller.png> <./konten//gambar/peminjaman ruangan controller.png>]
+<konten//gambar/pendanaan controller.png, id=1390, 963.6pt x 567.11874pt>
+File: konten//gambar/pendanaan controller.png Graphic file (type png)
+<use konten//gambar/pendanaan controller.png>
+Package pdftex.def Info: konten//gambar/pendanaan controller.png  used on input line 674.
+(pdftex.def)             Requested size: 326.64055pt x 192.23804pt.
+<konten//gambar/prodi controller.png, id=1391, 963.6pt x 565.61313pt>
+File: konten//gambar/prodi controller.png Graphic file (type png)
+<use konten//gambar/prodi controller.png>
+Package pdftex.def Info: konten//gambar/prodi controller.png  used on input line 683.
+(pdftex.def)             Requested size: 326.64055pt x 191.72766pt.
+ [45 <./konten//gambar/pemusnahan barang controller.png> <./konten//gambar/pendanaan controller.png>]
+<konten//gambar/referensi controller.png, id=1401, 963.6pt x 565.11125pt>
+File: konten//gambar/referensi controller.png Graphic file (type png)
+<use konten//gambar/referensi controller.png>
+Package pdftex.def Info: konten//gambar/referensi controller.png  used on input line 692.
+(pdftex.def)             Requested size: 326.64055pt x 191.55754pt.
+<konten//gambar/ruangan controller.png, id=1402, 963.6pt x 566.115pt>
+File: konten//gambar/ruangan controller.png Graphic file (type png)
+<use konten//gambar/ruangan controller.png>
+Package pdftex.def Info: konten//gambar/ruangan controller.png  used on input line 701.
+(pdftex.def)             Requested size: 326.64055pt x 191.8978pt.
+ [46 <./konten//gambar/prodi controller.png> <./konten//gambar/referensi controller.png>]
+<konten//gambar/user controller.png, id=1411, 963.6pt x 551.56062pt>
+File: konten//gambar/user controller.png Graphic file (type png)
+<use konten//gambar/user controller.png>
+Package pdftex.def Info: konten//gambar/user controller.png  used on input line 710.
+(pdftex.def)             Requested size: 326.64055pt x 186.96425pt.
+<konten//gambar/Login Page.png, id=1412, 1927.2pt x 1003.75pt>
+File: konten//gambar/Login Page.png Graphic file (type png)
+<use konten//gambar/Login Page.png>
+Package pdftex.def Info: konten//gambar/Login Page.png  used on input line 727.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [47 <./konten//gambar/ruangan controller.png> <./konten//gambar/user controller.png>]
+<konten//gambar/login gagal.png, id=1421, 1927.2pt x 1066.98625pt>
+File: konten//gambar/login gagal.png Graphic file (type png)
+<use konten//gambar/login gagal.png>
+Package pdftex.def Info: konten//gambar/login gagal.png  used on input line 735.
+(pdftex.def)             Requested size: 326.64055pt x 180.83171pt.
+<konten//gambar/login berhasil.png, id=1422, 1927.2pt x 1003.75pt>
+File: konten//gambar/login berhasil.png Graphic file (type png)
+<use konten//gambar/login berhasil.png>
+Package pdftex.def Info: konten//gambar/login berhasil.png  used on input line 744.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [48 <./konten//gambar/Login Page.png> <./konten//gambar/login gagal.png>]
+<konten//gambar/admin.png, id=1430, 1927.2pt x 1004.75375pt>
+File: konten//gambar/admin.png Graphic file (type png)
+<use konten//gambar/admin.png>
+Package pdftex.def Info: konten//gambar/admin.png  used on input line 753.
+(pdftex.def)             Requested size: 326.64055pt x 170.2846pt.
+<konten//gambar/kalab.png, id=1431, 1927.2pt x 1003.75pt>
+File: konten//gambar/kalab.png Graphic file (type png)
+<use konten//gambar/kalab.png>
+Package pdftex.def Info: konten//gambar/kalab.png  used on input line 760.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [49 <./konten//gambar/login berhasil.png> <./konten//gambar/admin.png>]
+<konten//gambar/kaprodi.png, id=1438, 1927.2pt x 1003.75pt>
+File: konten//gambar/kaprodi.png Graphic file (type png)
+<use konten//gambar/kaprodi.png>
+Package pdftex.def Info: konten//gambar/kaprodi.png  used on input line 767.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/sekprodi.png, id=1439, 1927.2pt x 1003.75pt>
+File: konten//gambar/sekprodi.png Graphic file (type png)
+<use konten//gambar/sekprodi.png>
+Package pdftex.def Info: konten//gambar/sekprodi.png  used on input line 774.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/aslab.png, id=1440, 1927.2pt x 1003.75pt>
+File: konten//gambar/aslab.png Graphic file (type png)
+<use konten//gambar/aslab.png>
+Package pdftex.def Info: konten//gambar/aslab.png  used on input line 781.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [50 <./konten//gambar/kalab.png> <./konten//gambar/kaprodi.png> <./konten//gambar/sekprodi.png>]
+<konten//gambar/pendanaan.png, id=1448, 1927.2pt x 1003.75pt>
+File: konten//gambar/pendanaan.png Graphic file (type png)
+<use konten//gambar/pendanaan.png>
+Package pdftex.def Info: konten//gambar/pendanaan.png  used on input line 790.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/pendanaan tambah.png, id=1449, 1927.2pt x 1003.75pt>
+File: konten//gambar/pendanaan tambah.png Graphic file (type png)
+<use konten//gambar/pendanaan tambah.png>
+Package pdftex.def Info: konten//gambar/pendanaan tambah.png  used on input line 797.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [51 <./konten//gambar/aslab.png> <./konten//gambar/pendanaan.png>]
+<konten//gambar/pendanaan edit.png, id=1458, 1927.2pt x 1003.75pt>
+File: konten//gambar/pendanaan edit.png Graphic file (type png)
+<use konten//gambar/pendanaan edit.png>
+Package pdftex.def Info: konten//gambar/pendanaan edit.png  used on input line 804.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/barang.png, id=1459, 1445.4pt x 813.0375pt>
+File: konten//gambar/barang.png Graphic file (type png)
+<use konten//gambar/barang.png>
+Package pdftex.def Info: konten//gambar/barang.png  used on input line 813.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+ [52 <./konten//gambar/pendanaan tambah.png> <./konten//gambar/pendanaan edit.png>]
+<konten//gambar/barang tambah.png, id=1467, 1445.4pt x 813.0375pt>
+File: konten//gambar/barang tambah.png Graphic file (type png)
+<use konten//gambar/barang tambah.png>
+Package pdftex.def Info: konten//gambar/barang tambah.png  used on input line 820.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+<konten//gambar/barang edit.png, id=1468, 1445.4pt x 813.0375pt>
+File: konten//gambar/barang edit.png Graphic file (type png)
+<use konten//gambar/barang edit.png>
+Package pdftex.def Info: konten//gambar/barang edit.png  used on input line 827.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+<konten//gambar/barang detail.png, id=1469, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang detail.png Graphic file (type png)
+<use konten//gambar/barang detail.png>
+Package pdftex.def Info: konten//gambar/barang detail.png  used on input line 834.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [53 <./konten//gambar/barang.png> <./konten//gambar/barang tambah.png> <./konten//gambar/barang edit.png>]
+<konten//gambar/barang cetak pendanaan.png, id=1477, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak pendanaan.png Graphic file (type png)
+<use konten//gambar/barang cetak pendanaan.png>
+Package pdftex.def Info: konten//gambar/barang cetak pendanaan.png  used on input line 841.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/barang cetak ruangan.png, id=1478, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak ruangan.png Graphic file (type png)
+<use konten//gambar/barang cetak ruangan.png>
+Package pdftex.def Info: konten//gambar/barang cetak ruangan.png  used on input line 848.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/barang cetak kategori.png, id=1479, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak kategori.png Graphic file (type png)
+<use konten//gambar/barang cetak kategori.png>
+Package pdftex.def Info: konten//gambar/barang cetak kategori.png  used on input line 855.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [54 <./konten//gambar/barang detail.png> <./konten//gambar/barang cetak pendanaan.png> <./konten//gambar/barang cetak ruangan.png>]
+<konten//gambar/barang cetak tahun.png, id=1487, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak tahun.png Graphic file (type png)
+<use konten//gambar/barang cetak tahun.png>
+Package pdftex.def Info: konten//gambar/barang cetak tahun.png  used on input line 862.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/barang cetak qr.png, id=1488, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak qr.png Graphic file (type png)
+<use konten//gambar/barang cetak qr.png>
+Package pdftex.def Info: konten//gambar/barang cetak qr.png  used on input line 869.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/barang cetak ruangan pdf.png, id=1489, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak ruangan pdf.png Graphic file (type png)
+<use konten//gambar/barang cetak ruangan pdf.png>
+Package pdftex.def Info: konten//gambar/barang cetak ruangan pdf.png  used on input line 876.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [55 <./konten//gambar/barang cetak kategori.png> <./konten//gambar/barang cetak tahun.png> <./konten//gambar/barang cetak qr.png>]
+<konten//gambar/barang cetak pendanaan pdf.png, id=1497, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak pendanaan pdf.png Graphic file (type png)
+<use konten//gambar/barang cetak pendanaan pdf.png>
+Package pdftex.def Info: konten//gambar/barang cetak pendanaan pdf.png  used on input line 883.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/barang cetak tahun pdf.png, id=1498, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak tahun pdf.png Graphic file (type png)
+<use konten//gambar/barang cetak tahun pdf.png>
+Package pdftex.def Info: konten//gambar/barang cetak tahun pdf.png  used on input line 890.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/barang cetak kategori pdf.png, id=1499, 1927.2pt x 1003.75pt>
+File: konten//gambar/barang cetak kategori pdf.png Graphic file (type png)
+<use konten//gambar/barang cetak kategori pdf.png>
+Package pdftex.def Info: konten//gambar/barang cetak kategori pdf.png  used on input line 897.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [56 <./konten//gambar/barang cetak ruangan pdf.png> <./konten//gambar/barang cetak pendanaan pdf.png> <./konten//gambar/barang cetak tahun pdf.png>]
+<konten//gambar/rsi.png, id=1507, 1445.4pt x 752.0597pt>
+File: konten//gambar/rsi.png Graphic file (type png)
+<use konten//gambar/rsi.png>
+Package pdftex.def Info: konten//gambar/rsi.png  used on input line 906.
+(pdftex.def)             Requested size: 326.64055pt x 169.95203pt.
+<konten//gambar/se.png, id=1508, 1445.4pt x 754.31813pt>
+File: konten//gambar/se.png Graphic file (type png)
+<use konten//gambar/se.png>
+Package pdftex.def Info: konten//gambar/se.png  used on input line 913.
+(pdftex.def)             Requested size: 326.64055pt x 170.4624pt.
+ [57 <./konten//gambar/barang cetak kategori pdf.png> <./konten//gambar/rsi.png>]
+<konten//gambar/int.png, id=1517, 1445.4pt x 758.08218pt>
+File: konten//gambar/int.png Graphic file (type png)
+<use konten//gambar/int.png>
+Package pdftex.def Info: konten//gambar/int.png  used on input line 920.
+(pdftex.def)             Requested size: 326.64055pt x 171.313pt.
+<konten//gambar/peminjaman barang index hasil.png, id=1518, 1927.2pt x 1003.75pt>
+File: konten//gambar/peminjaman barang index hasil.png Graphic file (type png)
+<use konten//gambar/peminjaman barang index hasil.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang index hasil.png  used on input line 929.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [58 <./konten//gambar/se.png> <./konten//gambar/int.png>]
+<konten//gambar/peminjaman barang pinjam hasil.png, id=1526, 1927.2pt x 1088.065pt>
+File: konten//gambar/peminjaman barang pinjam hasil.png Graphic file (type png)
+<use konten//gambar/peminjaman barang pinjam hasil.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang pinjam hasil.png  used on input line 943.
+(pdftex.def)             Requested size: 326.64055pt x 184.40411pt.
+<konten//gambar/peminjaman barang tambah internal 1 hasil.png, id=1527, 1927.2pt x 1041.8925pt>
+File: konten//gambar/peminjaman barang tambah internal 1 hasil.png Graphic file (type png)
+<use konten//gambar/peminjaman barang tambah internal 1 hasil.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang tambah internal 1 hasil.png  used on input line 950.
+(pdftex.def)             Requested size: 326.64055pt x 176.57884pt.
+<konten//gambar/peminjaman barang tambah internal 2 hasil.png, id=1528, 1445.4pt x 759.58781pt>
+File: konten//gambar/peminjaman barang tambah internal 2 hasil.png Graphic file (type png)
+<use konten//gambar/peminjaman barang tambah internal 2 hasil.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang tambah internal 2 hasil.png  used on input line 957.
+(pdftex.def)             Requested size: 326.64055pt x 171.65324pt.
+ [59 <./konten//gambar/peminjaman barang index hasil.png> <./konten//gambar/peminjaman barang pinjam hasil.png> <./konten//gambar/peminjaman barang tambah internal 1 hasil.png>]
+<konten//gambar/peminjaman barang tambah internal 3 hasil.png, id=1536, 1927.2pt x 1008.76875pt>
+File: konten//gambar/peminjaman barang tambah internal 3 hasil.png Graphic file (type png)
+<use konten//gambar/peminjaman barang tambah internal 3 hasil.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang tambah internal 3 hasil.png  used on input line 964.
+(pdftex.def)             Requested size: 326.64055pt x 170.96507pt.
+<konten//gambar/peminjaman barang tambah eksternal 1 hasil.png, id=1537, 1927.2pt x 1008.76875pt>
+File: konten//gambar/peminjaman barang tambah eksternal 1 hasil.png Graphic file (type png)
+<use konten//gambar/peminjaman barang tambah eksternal 1 hasil.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang tambah eksternal 1 hasil.png  used on input line 971.
+(pdftex.def)             Requested size: 326.64055pt x 170.96507pt.
+<konten//gambar/peminjaman barang tambah eksternal 2 hasil.png, id=1538, 1445.4pt x 759.58781pt>
+File: konten//gambar/peminjaman barang tambah eksternal 2 hasil.png Graphic file (type png)
+<use konten//gambar/peminjaman barang tambah eksternal 2 hasil.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang tambah eksternal 2 hasil.png  used on input line 978.
+(pdftex.def)             Requested size: 326.64055pt x 171.65324pt.
+ [60 <./konten//gambar/peminjaman barang tambah internal 2 hasil.png> <./konten//gambar/peminjaman barang tambah internal 3 hasil.png> <./konten//gambar/peminjaman barang tambah eksternal 1 hasil.png>]
+<konten//gambar/peminjaman barang tambah eksternal 3 hasil.png, id=1546, 1927.2pt x 1008.76875pt>
+File: konten//gambar/peminjaman barang tambah eksternal 3 hasil.png Graphic file (type png)
+<use konten//gambar/peminjaman barang tambah eksternal 3 hasil.png>
+Package pdftex.def Info: konten//gambar/peminjaman barang tambah eksternal 3 hasil.png  used on input line 985.
+(pdftex.def)             Requested size: 326.64055pt x 170.96507pt.
+<konten//gambar/peminjaman ruangan index.png, id=1547, 1927.2pt x 1120.185pt>
+File: konten//gambar/peminjaman ruangan index.png Graphic file (type png)
+<use konten//gambar/peminjaman ruangan index.png>
+Package pdftex.def Info: konten//gambar/peminjaman ruangan index.png  used on input line 994.
+(pdftex.def)             Requested size: 326.64055pt x 189.84778pt.
+ [61 <./konten//gambar/peminjaman barang tambah eksternal 2 hasil.png> <./konten//gambar/peminjaman barang tambah eksternal 3 hasil.png>]
+<konten//gambar/tambah biaya peminjaman ruangan.png, id=1555, 1927.2pt x 1003.75pt>
+File: konten//gambar/tambah biaya peminjaman ruangan.png Graphic file (type png)
+<use konten//gambar/tambah biaya peminjaman ruangan.png>
+Package pdftex.def Info: konten//gambar/tambah biaya peminjaman ruangan.png  used on input line 1001.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/peminjaman ruangan peminjam.png, id=1556, 1927.2pt x 1088.065pt>
+File: konten//gambar/peminjaman ruangan peminjam.png Graphic file (type png)
+<use konten//gambar/peminjaman ruangan peminjam.png>
+Package pdftex.def Info: konten//gambar/peminjaman ruangan peminjam.png  used on input line 1008.
+(pdftex.def)             Requested size: 326.64055pt x 184.40411pt.
+<konten//gambar/peminjaman ruangan tambah internal.png, id=1557, 1445.4pt x 813.0375pt>
+File: konten//gambar/peminjaman ruangan tambah internal.png Graphic file (type png)
+<use konten//gambar/peminjaman ruangan tambah internal.png>
+Package pdftex.def Info: konten//gambar/peminjaman ruangan tambah internal.png  used on input line 1015.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+ [62 <./konten//gambar/peminjaman ruangan index.png> <./konten//gambar/tambah biaya peminjaman ruangan.png> <./konten//gambar/peminjaman ruangan peminjam.png>]
+<konten//gambar/peminjaman ruangan tambah eksternal.png, id=1565, 1445.4pt x 813.0375pt>
+File: konten//gambar/peminjaman ruangan tambah eksternal.png Graphic file (type png)
+<use konten//gambar/peminjaman ruangan tambah eksternal.png>
+Package pdftex.def Info: konten//gambar/peminjaman ruangan tambah eksternal.png  used on input line 1022.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+<konten//gambar/dokumentasi index.png, id=1566, 1927.2pt x 1003.75pt>
+File: konten//gambar/dokumentasi index.png Graphic file (type png)
+<use konten//gambar/dokumentasi index.png>
+Package pdftex.def Info: konten//gambar/dokumentasi index.png  used on input line 1031.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [63 <./konten//gambar/peminjaman ruangan tambah internal.png> <./konten//gambar/peminjaman ruangan tambah eksternal.png>]
+<konten//gambar/dokumentasi detail.png, id=1575, 1927.2pt x 1003.75pt>
+File: konten//gambar/dokumentasi detail.png Graphic file (type png)
+<use konten//gambar/dokumentasi detail.png>
+Package pdftex.def Info: konten//gambar/dokumentasi detail.png  used on input line 1038.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/dokumentasi tambah.png, id=1576, 1445.4pt x 813.0375pt>
+File: konten//gambar/dokumentasi tambah.png Graphic file (type png)
+<use konten//gambar/dokumentasi tambah.png>
+Package pdftex.def Info: konten//gambar/dokumentasi tambah.png  used on input line 1045.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+<konten//gambar/dokumentasi edit.png, id=1577, 1927.2pt x 1003.75pt>
+File: konten//gambar/dokumentasi edit.png Graphic file (type png)
+<use konten//gambar/dokumentasi edit.png>
+Package pdftex.def Info: konten//gambar/dokumentasi edit.png  used on input line 1052.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [64 <./konten//gambar/dokumentasi index.png> <./konten//gambar/dokumentasi detail.png> <./konten//gambar/dokumentasi tambah.png>]
+<konten//gambar/dokumentasi download.png, id=1585, 1927.2pt x 1003.75pt>
+File: konten//gambar/dokumentasi download.png Graphic file (type png)
+<use konten//gambar/dokumentasi download.png>
+Package pdftex.def Info: konten//gambar/dokumentasi download.png  used on input line 1059.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/maintenance index.png, id=1586, 1927.2pt x 1003.75pt>
+File: konten//gambar/maintenance index.png Graphic file (type png)
+<use konten//gambar/maintenance index.png>
+Package pdftex.def Info: konten//gambar/maintenance index.png  used on input line 1067.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [65 <./konten//gambar/dokumentasi edit.png> <./konten//gambar/dokumentasi download.png>]
+<konten//gambar/maintenance detail.png, id=1594, 1927.2pt x 1003.75pt>
+File: konten//gambar/maintenance detail.png Graphic file (type png)
+<use konten//gambar/maintenance detail.png>
+Package pdftex.def Info: konten//gambar/maintenance detail.png  used on input line 1074.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/maintenance tambah.png, id=1595, 1927.2pt x 1120.185pt>
+File: konten//gambar/maintenance tambah.png Graphic file (type png)
+<use konten//gambar/maintenance tambah.png>
+Package pdftex.def Info: konten//gambar/maintenance tambah.png  used on input line 1081.
+(pdftex.def)             Requested size: 326.64055pt x 189.84778pt.
+<konten//gambar/maintenance edit.png, id=1596, 1927.2pt x 1003.75pt>
+File: konten//gambar/maintenance edit.png Graphic file (type png)
+<use konten//gambar/maintenance edit.png>
+Package pdftex.def Info: konten//gambar/maintenance edit.png  used on input line 1088.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [66 <./konten//gambar/maintenance index.png> <./konten//gambar/maintenance detail.png> <./konten//gambar/maintenance tambah.png>]
+<konten//gambar/pemusnahan barang index.png, id=1604, 1927.2pt x 1003.75pt>
+File: konten//gambar/pemusnahan barang index.png Graphic file (type png)
+<use konten//gambar/pemusnahan barang index.png>
+Package pdftex.def Info: konten//gambar/pemusnahan barang index.png  used on input line 1097.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/pemusnahan barangdtl.png, id=1605, 1927.2pt x 1003.75pt>
+File: konten//gambar/pemusnahan barangdtl.png Graphic file (type png)
+<use konten//gambar/pemusnahan barangdtl.png>
+Package pdftex.def Info: konten//gambar/pemusnahan barangdtl.png  used on input line 1104.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [67 <./konten//gambar/maintenance edit.png> <./konten//gambar/pemusnahan barang index.png>]
+<konten//gambar/pemusnahan barangtbh.png, id=1613, 1445.4pt x 813.0375pt>
+File: konten//gambar/pemusnahan barangtbh.png Graphic file (type png)
+<use konten//gambar/pemusnahan barangtbh.png>
+Package pdftex.def Info: konten//gambar/pemusnahan barangtbh.png  used on input line 1111.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+<konten//gambar/pemusnahan barang edit.png, id=1614, 1927.2pt x 1003.75pt>
+File: konten//gambar/pemusnahan barang edit.png Graphic file (type png)
+<use konten//gambar/pemusnahan barang edit.png>
+Package pdftex.def Info: konten//gambar/pemusnahan barang edit.png  used on input line 1118.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [68 <./konten//gambar/pemusnahan barangdtl.png> <./konten//gambar/pemusnahan barangtbh.png> <./konten//gambar/pemusnahan barang edit.png>]
+<konten//gambar/fakultas index.png, id=1622, 1445.4pt x 813.0375pt>
+File: konten//gambar/fakultas index.png Graphic file (type png)
+<use konten//gambar/fakultas index.png>
+Package pdftex.def Info: konten//gambar/fakultas index.png  used on input line 1127.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+<konten//gambar/fakultas tambah.png, id=1623, 1927.2pt x 1003.75pt>
+File: konten//gambar/fakultas tambah.png Graphic file (type png)
+<use konten//gambar/fakultas tambah.png>
+Package pdftex.def Info: konten//gambar/fakultas tambah.png  used on input line 1134.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/fakultas edit.png, id=1624, 1927.2pt x 1003.75pt>
+File: konten//gambar/fakultas edit.png Graphic file (type png)
+<use konten//gambar/fakultas edit.png>
+Package pdftex.def Info: konten//gambar/fakultas edit.png  used on input line 1141.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [69 <./konten//gambar/fakultas index.png> <./konten//gambar/fakultas tambah.png>]
+<konten//gambar/prodi index.png, id=1633, 1445.4pt x 813.0375pt>
+File: konten//gambar/prodi index.png Graphic file (type png)
+<use konten//gambar/prodi index.png>
+Package pdftex.def Info: konten//gambar/prodi index.png  used on input line 1150.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+<konten//gambar/prodi tambah.png, id=1634, 1927.2pt x 1003.75pt>
+File: konten//gambar/prodi tambah.png Graphic file (type png)
+<use konten//gambar/prodi tambah.png>
+Package pdftex.def Info: konten//gambar/prodi tambah.png  used on input line 1157.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [70 <./konten//gambar/fakultas edit.png> <./konten//gambar/prodi index.png>]
+<konten//gambar/prodi edit.png, id=1642, 1927.2pt x 1003.75pt>
+File: konten//gambar/prodi edit.png Graphic file (type png)
+<use konten//gambar/prodi edit.png>
+Package pdftex.def Info: konten//gambar/prodi edit.png  used on input line 1164.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/gedung index.png, id=1643, 1445.4pt x 756.57657pt>
+File: konten//gambar/gedung index.png Graphic file (type png)
+<use konten//gambar/gedung index.png>
+Package pdftex.def Info: konten//gambar/gedung index.png  used on input line 1172.
+(pdftex.def)             Requested size: 326.64055pt x 170.97276pt.
+ [71 <./konten//gambar/prodi tambah.png> <./konten//gambar/prodi edit.png>]
+<konten//gambar/gedung tambah.png, id=1651, 1927.2pt x 1003.75pt>
+File: konten//gambar/gedung tambah.png Graphic file (type png)
+<use konten//gambar/gedung tambah.png>
+Package pdftex.def Info: konten//gambar/gedung tambah.png  used on input line 1179.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/gedung edit.png, id=1652, 1927.2pt x 1003.75pt>
+File: konten//gambar/gedung edit.png Graphic file (type png)
+<use konten//gambar/gedung edit.png>
+Package pdftex.def Info: konten//gambar/gedung edit.png  used on input line 1186.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/ruangan index.png, id=1653, 1445.4pt x 813.0375pt>
+File: konten//gambar/ruangan index.png Graphic file (type png)
+<use konten//gambar/ruangan index.png>
+Package pdftex.def Info: konten//gambar/ruangan index.png  used on input line 1194.
+(pdftex.def)             Requested size: 326.64055pt x 183.73193pt.
+ [72 <./konten//gambar/gedung index.png> <./konten//gambar/gedung tambah.png> <./konten//gambar/gedung edit.png>]
+<konten//gambar/ruangan tambah.png, id=1662, 1927.2pt x 1003.75pt>
+File: konten//gambar/ruangan tambah.png Graphic file (type png)
+<use konten//gambar/ruangan tambah.png>
+Package pdftex.def Info: konten//gambar/ruangan tambah.png  used on input line 1201.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/ruangan edit.png, id=1663, 1927.2pt x 1003.75pt>
+File: konten//gambar/ruangan edit.png Graphic file (type png)
+<use konten//gambar/ruangan edit.png>
+Package pdftex.def Info: konten//gambar/ruangan edit.png  used on input line 1208.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [73 <./konten//gambar/ruangan index.png> <./konten//gambar/ruangan tambah.png>]
+<konten//gambar/user index.png, id=1670, 1927.2pt x 1120.185pt>
+File: konten//gambar/user index.png Graphic file (type png)
+<use konten//gambar/user index.png>
+Package pdftex.def Info: konten//gambar/user index.png  used on input line 1217.
+(pdftex.def)             Requested size: 326.64055pt x 189.84778pt.
+<konten//gambar/user detail.png, id=1671, 1927.2pt x 1003.75pt>
+File: konten//gambar/user detail.png Graphic file (type png)
+<use konten//gambar/user detail.png>
+Package pdftex.def Info: konten//gambar/user detail.png  used on input line 1224.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [74 <./konten//gambar/ruangan edit.png> <./konten//gambar/user index.png>]
+<konten//gambar/user tambah.png, id=1679, 1927.2pt x 1003.75pt>
+File: konten//gambar/user tambah.png Graphic file (type png)
+<use konten//gambar/user tambah.png>
+Package pdftex.def Info: konten//gambar/user tambah.png  used on input line 1231.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/user edit.png, id=1680, 1927.2pt x 1003.75pt>
+File: konten//gambar/user edit.png Graphic file (type png)
+<use konten//gambar/user edit.png>
+Package pdftex.def Info: konten//gambar/user edit.png  used on input line 1238.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+ [75 <./konten//gambar/user detail.png> <./konten//gambar/user tambah.png> <./konten//gambar/user edit.png>]
+<konten//gambar/profil.png, id=1690, 1927.2pt x 1003.75pt>
+File: konten//gambar/profil.png Graphic file (type png)
+<use konten//gambar/profil.png>
+Package pdftex.def Info: konten//gambar/profil.png  used on input line 1247.
+(pdftex.def)             Requested size: 326.64055pt x 170.1145pt.
+<konten//gambar/profil edit.png, id=1691, 1927.2pt x 1236.62pt>
+File: konten//gambar/profil edit.png Graphic file (type png)
+<use konten//gambar/profil edit.png>
+Package pdftex.def Info: konten//gambar/profil edit.png  used on input line 1254.
+(pdftex.def)             Requested size: 326.64055pt x 209.58105pt.
+<konten//gambar/pengembang.png, id=1692, 1927.2pt x 2066.72125pt>
+File: konten//gambar/pengembang.png Graphic file (type png)
+<use konten//gambar/pengembang.png>
+Package pdftex.def Info: konten//gambar/pengembang.png  used on input line 1263.
+(pdftex.def)             Requested size: 326.64055pt x 350.26576pt.
+ [76 <./konten//gambar/profil.png> <./konten//gambar/profil edit.png>]) [77 <./konten//gambar/pengembang.png>]
+\openout2 = `konten/bab5.aux'.
+
+ (konten/bab5.tex
+BAB 5.
+
+Underfull \hbox (badness 7362) in paragraph at lines 31--32
+[]\OT1/ptm/m/n/12 Pengembangan melalui pe-nam-ba-han metode atau al-go-ritma un-tuk
+ []
+
+) [78
+
+
+
+
+] (kerjapraktek.bbl [79
+
+
+
+]
+Underfull \hbox (badness 1527) in paragraph at lines 541--555
+[]\OT1/ptm/m/n/12 Yanti, Y., dan Hi-dayat, M.  (2021).  Sis-tem in-for-masi in-ven-taris barang
+ []
+
+) (halamanbelakang/lampiranSemua.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2 \include{halamanbelakang/lampiranA}
+                                        [0]
+\openout2 = `halamanbelakang/lampiranA.aux'.
+
+ (halamanbelakang/lampiranA.tex
+LAMPIRAN A.
+<konten//gambar/Surat Izin Kerja Praktek.png, id=1729, 265.99374pt x 397.98688pt>
+File: konten//gambar/Surat Izin Kerja Praktek.png Graphic file (type png)
+<use konten//gambar/Surat Izin Kerja Praktek.png>
+Package pdftex.def Info: konten//gambar/Surat Izin Kerja Praktek.png  used on input line 19.
+(pdftex.def)             Requested size: 398.33858pt x 596.05579pt.
+) [1
+
+
+]
+Overfull \vbox (19.52063pt too high) has occurred while \output is active []
+
+ [2 <./konten//gambar/Surat Izin Kerja Praktek.png>]
+\openout2 = `halamanbelakang/lampiranB.aux'.
+
+ (halamanbelakang/lampiranB.tex
+LAMPIRAN B.
+) [1
+
+
+
+
+]
+\openout2 = `halamanbelakang/lampiranC.aux'.
+
+ (halamanbelakang/lampiranC.tex
+LAMPIRAN C.
+<konten//gambar/Dokumentasi KP 1.jpg, id=1744, 1204.5pt x 677.53125pt>
+File: konten//gambar/Dokumentasi KP 1.jpg Graphic file (type jpg)
+<use konten//gambar/Dokumentasi KP 1.jpg>
+Package pdftex.def Info: konten//gambar/Dokumentasi KP 1.jpg  used on input line 20.
+(pdftex.def)             Requested size: 398.33858pt x 224.06155pt.
+<konten//gambar/Dokumentasi KP 2.jpg, id=1745, 398.142pt x 224.3655pt>
+File: konten//gambar/Dokumentasi KP 2.jpg Graphic file (type jpg)
+<use konten//gambar/Dokumentasi KP 2.jpg>
+Package pdftex.def Info: konten//gambar/Dokumentasi KP 2.jpg  used on input line 26.
+(pdftex.def)             Requested size: 398.33858pt x 224.48474pt.
+) [1
+
+
+
+
+ <./konten//gambar/Dokumentasi KP 1.jpg> <./konten//gambar/Dokumentasi KP 2.jpg>]
+\openout2 = `halamanbelakang/lampiranD.aux'.
+
+ (halamanbelakang/lampiranD.tex
+LAMPIRAN D.
+<konten//gambar/Source Code.png, id=1750, 1296.34312pt x 1533.47906pt>
+File: konten//gambar/Source Code.png Graphic file (type png)
+<use konten//gambar/Source Code.png>
+Package pdftex.def Info: konten//gambar/Source Code.png  used on input line 21.
+(pdftex.def)             Requested size: 398.33858pt x 471.20859pt.
+) [1
+
+
+
+
+ <./konten//gambar/Source Code.png>])
+\openout2 = `halamanbelakang/daftarRiwayatHidup.aux'.
+
+
+No file halamanbelakang/daftarRiwayatHidup.tex.
+(kerjapraktek.aux (kontrol/cover.aux) (kontrol/lembarPengesahanInstansi.aux) (kontrol/lembarPengesahanProdi.aux) (halamandepan/kataPengantar.aux) (halamandepan/abstrak.aux) (halamandepan/abstrakInggris.aux) (konten/bab1.aux) (konten/bab2.aux) (konten/bab3.aux) (konten/bab4.aux) (konten/bab5.aux) (halamanbelakang/lampiranA.aux) (halamanbelakang/lampiranB.aux) (halamanbelakang/lampiranC.aux) (halamanbelakang/lampiranD.aux) (halamanbelakang/daftarRiwayatHidup.aux))
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `kerjapraktek.out' has not changed.
+(rerunfilecheck)             Checksum: C570E5E981BE11E4CEBD1C7CD3DECF7E;10964.
+ ) 
+Here is how much of TeX's memory you used:
+ 17583 strings out of 475248
+ 324399 string characters out of 5756397
+ 1936785 words of memory out of 5000000
+ 38236 multiletter control sequences out of 15000+600000
+ 606936 words of font info for 132 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,12n,107p,1852b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/hafiz_xz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/hafiz_xz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/hafiz_xz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/hafiz_xz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/hafiz_xz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on kerjapraktek.pdf (101 pages, 19010858 bytes).
+PDF statistics:
+ 1881 PDF objects out of 2073 (max. 8388607)
+ 469 named destinations out of 1000 (max. 500000)
+ 1241 words of extra memory for PDF output out of 10000 (max. 10000000)
+

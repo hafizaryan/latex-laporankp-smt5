@@ -1,0 +1,152 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Struktur Organisasi Laboratorium}}{6}{figure.caption.15}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Kegiatan Kerja Praktek}}{11}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Metodologi Kerja Praktek}}{12}{figure.caption.17}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Tampilan Tabel Dalam \textit {Database}}}{17}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Tampilan \textit {Database} Tabel barang}}{18}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Tampilan \textit {Database} Tabel dokumentasi}}{18}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Tampilan \textit {Database} Tabel fakultas}}{19}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Tampilan \textit {Database} Tabel gedung}}{19}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Tampilan \textit {Database} Tabel \textit {maintenance}}}{20}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Tampilan \textit {Database} Tabel peminjaman\_barang}}{21}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Tampilan \textit {Database} Tabel peminjaman\_ruangan}}{22}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Tampilan \textit {Database} Tabel pemusnahan\_barang}}{22}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Tampilan \textit {Database} Tabel pendanaan}}{23}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Tampilan \textit {Database} Tabel prodi}}{23}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Tampilan \textit {Database} Tabel referensi}}{23}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Tampilan \textit {Database} Tabel ruangan}}{24}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Tampilan \textit {Database} Tabel user}}{24}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces \textit {Routes} Barang}}{25}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces \textit {Routes} Dokumentasi}}{25}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces \textit {Routes} Fakultas}}{25}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces \textit {Routes} Gedung}}{26}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces \textit {Routes Maintenance}}}{26}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces \textit {Routes} Peminjaman Barang}}{26}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces \textit {Routes} Peminjaman Ruangan}}{27}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces \textit {Routes} Pemusnahan Barang}}{27}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces \textit {Routes} Pendanaan}}{27}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces \textit {Routes} Prodi}}{28}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces \textit {Routes} Ruangan}}{28}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces \textit {Routes} \textit {User}}}{28}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Model Barang}}{29}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Model Dokumentasi}}{29}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Model Fakultas}}{30}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Model Gedung}}{30}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Model \textit {Maintenance}}}{31}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Model Peminjaman Barang}}{31}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Model Peminjaman Ruangan}}{32}{figure.caption.52}%
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Model Pemusnahan Barang}}{32}{figure.caption.53}%
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Model Pendanaan}}{33}{figure.caption.54}%
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Model Prodi}}{33}{figure.caption.55}%
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Model Referensi}}{34}{figure.caption.56}%
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Model Ruangan}}{34}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Model \textit {User}}}{35}{figure.caption.58}%
+\contentsline {figure}{\numberline {4.40}{\ignorespaces \textit {View} Barang}}{35}{figure.caption.59}%
+\contentsline {figure}{\numberline {4.41}{\ignorespaces \textit {View} Dokumentasi}}{36}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.42}{\ignorespaces \textit {View} Fakultas}}{36}{figure.caption.61}%
+\contentsline {figure}{\numberline {4.43}{\ignorespaces \textit {View} Gedung}}{37}{figure.caption.62}%
+\contentsline {figure}{\numberline {4.44}{\ignorespaces \textit {View Maintenance}}}{37}{figure.caption.63}%
+\contentsline {figure}{\numberline {4.45}{\ignorespaces \textit {View} Peminjaman Barang}}{38}{figure.caption.64}%
+\contentsline {figure}{\numberline {4.46}{\ignorespaces \textit {View} Peminjaman Ruangan}}{38}{figure.caption.65}%
+\contentsline {figure}{\numberline {4.47}{\ignorespaces \textit {View} Pemusnahan Barang}}{39}{figure.caption.66}%
+\contentsline {figure}{\numberline {4.48}{\ignorespaces \textit {View} Pendanaan}}{39}{figure.caption.67}%
+\contentsline {figure}{\numberline {4.49}{\ignorespaces \textit {View} Prodi}}{40}{figure.caption.68}%
+\contentsline {figure}{\numberline {4.50}{\ignorespaces \textit {View} Ruangan}}{40}{figure.caption.69}%
+\contentsline {figure}{\numberline {4.51}{\ignorespaces \textit {View User}}}{41}{figure.caption.70}%
+\contentsline {figure}{\numberline {4.52}{\ignorespaces \textit {Controller} Barang}}{41}{figure.caption.71}%
+\contentsline {figure}{\numberline {4.53}{\ignorespaces \textit {Controller} Dokumentasi}}{42}{figure.caption.72}%
+\contentsline {figure}{\numberline {4.54}{\ignorespaces \textit {Controller} Fakultas}}{42}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.55}{\ignorespaces \textit {Controller} Gedung }}{43}{figure.caption.74}%
+\contentsline {figure}{\numberline {4.56}{\ignorespaces \textit {Controller Maintenance}}}{43}{figure.caption.75}%
+\contentsline {figure}{\numberline {4.57}{\ignorespaces \textit {Controller} Peminjaman Barang}}{44}{figure.caption.76}%
+\contentsline {figure}{\numberline {4.58}{\ignorespaces \textit {Controller} Peminjaman Ruangan}}{44}{figure.caption.77}%
+\contentsline {figure}{\numberline {4.59}{\ignorespaces \textit {Controller} Pemusnahan Barang}}{45}{figure.caption.78}%
+\contentsline {figure}{\numberline {4.60}{\ignorespaces \textit {Controller} Pendanaan}}{45}{figure.caption.79}%
+\contentsline {figure}{\numberline {4.61}{\ignorespaces \textit {Controller} Prodi}}{46}{figure.caption.80}%
+\contentsline {figure}{\numberline {4.62}{\ignorespaces \textit {Controller} Referensi}}{46}{figure.caption.81}%
+\contentsline {figure}{\numberline {4.63}{\ignorespaces \textit {Controller} Ruangan}}{47}{figure.caption.82}%
+\contentsline {figure}{\numberline {4.64}{\ignorespaces \textit {Controller User}}}{47}{figure.caption.83}%
+\contentsline {figure}{\numberline {4.65}{\ignorespaces Halaman \textit {Login}}}{48}{figure.caption.84}%
+\contentsline {figure}{\numberline {4.66}{\ignorespaces Tampilan \textit {Login} gagal}}{48}{figure.caption.85}%
+\contentsline {figure}{\numberline {4.67}{\ignorespaces Halaman Beranda}}{49}{figure.caption.86}%
+\contentsline {figure}{\numberline {4.68}{\ignorespaces Halaman Beranda Admin}}{49}{figure.caption.87}%
+\contentsline {figure}{\numberline {4.69}{\ignorespaces Halaman Beranda Kalab}}{50}{figure.caption.88}%
+\contentsline {figure}{\numberline {4.70}{\ignorespaces Halaman Beranda Kaprodi}}{50}{figure.caption.89}%
+\contentsline {figure}{\numberline {4.71}{\ignorespaces Halaman Beranda Sekprodi}}{50}{figure.caption.90}%
+\contentsline {figure}{\numberline {4.72}{\ignorespaces Halaman Beranda Aslab}}{51}{figure.caption.91}%
+\contentsline {figure}{\numberline {4.73}{\ignorespaces Halaman Pendanaan \textit {Index}}}{51}{figure.caption.92}%
+\contentsline {figure}{\numberline {4.74}{\ignorespaces Halaman Tambah Pendanaan}}{52}{figure.caption.93}%
+\contentsline {figure}{\numberline {4.75}{\ignorespaces Halaman Edit Pendanaan}}{52}{figure.caption.94}%
+\contentsline {figure}{\numberline {4.76}{\ignorespaces Halaman Barang \textit {Index}}}{53}{figure.caption.95}%
+\contentsline {figure}{\numberline {4.77}{\ignorespaces Halaman Tambah Barang}}{53}{figure.caption.96}%
+\contentsline {figure}{\numberline {4.78}{\ignorespaces Halaman Edit Barang}}{53}{figure.caption.97}%
+\contentsline {figure}{\numberline {4.79}{\ignorespaces Tampilan Detail Barang}}{54}{figure.caption.98}%
+\contentsline {figure}{\numberline {4.80}{\ignorespaces Tampilan Tombol Cetak Pendanaan}}{54}{figure.caption.99}%
+\contentsline {figure}{\numberline {4.81}{\ignorespaces Tampilan Tombol Cetak Ruangan}}{54}{figure.caption.100}%
+\contentsline {figure}{\numberline {4.82}{\ignorespaces Tampilan Tombol Cetak Kategori}}{55}{figure.caption.101}%
+\contentsline {figure}{\numberline {4.83}{\ignorespaces Tampilan Tombol Cetak Tahun}}{55}{figure.caption.102}%
+\contentsline {figure}{\numberline {4.84}{\ignorespaces Halaman Cetak QR}}{55}{figure.caption.103}%
+\contentsline {figure}{\numberline {4.85}{\ignorespaces Halaman Cetak Ruangan}}{56}{figure.caption.104}%
+\contentsline {figure}{\numberline {4.86}{\ignorespaces Halaman Cetak Pendanaan}}{56}{figure.caption.105}%
+\contentsline {figure}{\numberline {4.87}{\ignorespaces Halaman Cetak Tahun}}{56}{figure.caption.106}%
+\contentsline {figure}{\numberline {4.88}{\ignorespaces Halaman Cetak Kategori}}{57}{figure.caption.107}%
+\contentsline {figure}{\numberline {4.89}{\ignorespaces Halaman Posisi Barang Labor RSI}}{57}{figure.caption.108}%
+\contentsline {figure}{\numberline {4.90}{\ignorespaces Halaman Posisi Barang Labor SE}}{58}{figure.caption.109}%
+\contentsline {figure}{\numberline {4.91}{\ignorespaces Halaman Posisi Barang Labor INT}}{58}{figure.caption.110}%
+\contentsline {figure}{\numberline {4.92}{\ignorespaces Halaman Peminjaman Barang \textit {Index}}}{59}{figure.caption.111}%
+\contentsline {figure}{\numberline {4.93}{\ignorespaces Halaman Peminjaman Barang Bagi Peminjam}}{59}{figure.caption.112}%
+\contentsline {figure}{\numberline {4.94}{\ignorespaces Halaman Peminjaman Barang Bagi Peminjam Internal Tahap 1}}{59}{figure.caption.113}%
+\contentsline {figure}{\numberline {4.95}{\ignorespaces Halaman Peminjaman Barang Bagi Peminjam Internal Tahap 2}}{60}{figure.caption.114}%
+\contentsline {figure}{\numberline {4.96}{\ignorespaces Halaman Peminjaman Barang Bagi Peminjam Internal Tahap 3}}{60}{figure.caption.115}%
+\contentsline {figure}{\numberline {4.97}{\ignorespaces Halaman Peminjaman Barang Bagi Peminjam Eksternal Tahap 1}}{60}{figure.caption.116}%
+\contentsline {figure}{\numberline {4.98}{\ignorespaces Halaman Peminjaman Barang Bagi Peminjam Eksternal Tahap 2}}{61}{figure.caption.117}%
+\contentsline {figure}{\numberline {4.99}{\ignorespaces Halaman Peminjaman Barang Bagi Peminjam Eksternal Tahap 3}}{61}{figure.caption.118}%
+\contentsline {figure}{\numberline {4.100}{\ignorespaces Halaman Peminjaman Ruangan \textit {Index}}}{62}{figure.caption.119}%
+\contentsline {figure}{\numberline {4.101}{\ignorespaces Halaman Tambah Biaya Peminjaman Ruangan}}{62}{figure.caption.120}%
+\contentsline {figure}{\numberline {4.102}{\ignorespaces Halaman Peminjaman Ruangan Bagi Peminjam}}{62}{figure.caption.121}%
+\contentsline {figure}{\numberline {4.103}{\ignorespaces Halaman Peminjaman Ruangan Bagi Peminjam Internal}}{63}{figure.caption.122}%
+\contentsline {figure}{\numberline {4.104}{\ignorespaces Halaman Peminjaman Ruangan Bagi Peminjam Eksternal}}{63}{figure.caption.123}%
+\contentsline {figure}{\numberline {4.105}{\ignorespaces Halaman Dokumentasi \textit {Index}}}{64}{figure.caption.124}%
+\contentsline {figure}{\numberline {4.106}{\ignorespaces Tampilan Detail Dokumentasi}}{64}{figure.caption.125}%
+\contentsline {figure}{\numberline {4.107}{\ignorespaces Halaman Tambah Dokumentasi}}{64}{figure.caption.126}%
+\contentsline {figure}{\numberline {4.108}{\ignorespaces Halaman Edit Dokumentasi}}{65}{figure.caption.127}%
+\contentsline {figure}{\numberline {4.109}{\ignorespaces Halaman Download Dokumentasi}}{65}{figure.caption.128}%
+\contentsline {figure}{\numberline {4.110}{\ignorespaces Halaman \textit {Maintenance} \textit {Index}}}{66}{figure.caption.129}%
+\contentsline {figure}{\numberline {4.111}{\ignorespaces Tampilan Detail \textit {Maintenance}}}{66}{figure.caption.130}%
+\contentsline {figure}{\numberline {4.112}{\ignorespaces Halaman Tambah \textit {Maintenance}}}{66}{figure.caption.131}%
+\contentsline {figure}{\numberline {4.113}{\ignorespaces Halaman Edit \textit {Maintenance}}}{67}{figure.caption.132}%
+\contentsline {figure}{\numberline {4.114}{\ignorespaces Halaman Pemusnahan Barang \textit {Index}}}{67}{figure.caption.133}%
+\contentsline {figure}{\numberline {4.115}{\ignorespaces Tampilan Detail Pemusnahan Barang}}{68}{figure.caption.134}%
+\contentsline {figure}{\numberline {4.116}{\ignorespaces Halaman Tambah Pemusnahan Barang}}{68}{figure.caption.135}%
+\contentsline {figure}{\numberline {4.117}{\ignorespaces Halaman Edit Pemusnahan Barang}}{68}{figure.caption.136}%
+\contentsline {figure}{\numberline {4.118}{\ignorespaces Halaman Fakultas \textit {Index}}}{69}{figure.caption.137}%
+\contentsline {figure}{\numberline {4.119}{\ignorespaces Halaman Tambah Fakultas}}{69}{figure.caption.138}%
+\contentsline {figure}{\numberline {4.120}{\ignorespaces Halaman Edit Fakultas}}{70}{figure.caption.139}%
+\contentsline {figure}{\numberline {4.121}{\ignorespaces Halaman Prodi Index}}{70}{figure.caption.140}%
+\contentsline {figure}{\numberline {4.122}{\ignorespaces Halaman Tambah Prodi}}{71}{figure.caption.141}%
+\contentsline {figure}{\numberline {4.123}{\ignorespaces Halaman Edit Prodi}}{71}{figure.caption.142}%
+\contentsline {figure}{\numberline {4.124}{\ignorespaces Halaman Gedung \textit {Index}}}{72}{figure.caption.143}%
+\contentsline {figure}{\numberline {4.125}{\ignorespaces Halaman Tambah Gedung}}{72}{figure.caption.144}%
+\contentsline {figure}{\numberline {4.126}{\ignorespaces Halaman Edit Gedung}}{72}{figure.caption.145}%
+\contentsline {figure}{\numberline {4.127}{\ignorespaces Halaman Ruangan \textit {Index}}}{73}{figure.caption.146}%
+\contentsline {figure}{\numberline {4.128}{\ignorespaces Halaman Tambah Ruangan}}{73}{figure.caption.147}%
+\contentsline {figure}{\numberline {4.129}{\ignorespaces Halaman Edit Ruangan}}{74}{figure.caption.148}%
+\contentsline {figure}{\numberline {4.130}{\ignorespaces Halaman Pengguna \textit {Index}}}{74}{figure.caption.149}%
+\contentsline {figure}{\numberline {4.131}{\ignorespaces Tampilan Detail Pengguna}}{75}{figure.caption.150}%
+\contentsline {figure}{\numberline {4.132}{\ignorespaces Halaman Tambah Pengguna}}{75}{figure.caption.151}%
+\contentsline {figure}{\numberline {4.133}{\ignorespaces Halaman Edit Pengguna}}{75}{figure.caption.152}%
+\contentsline {figure}{\numberline {4.134}{\ignorespaces Halaman Profil Pengguna}}{76}{figure.caption.153}%
+\contentsline {figure}{\numberline {4.135}{\ignorespaces Halaman Edit Profil Pengguna}}{76}{figure.caption.154}%
+\contentsline {figure}{\numberline {4.136}{\ignorespaces Halaman Pengembang}}{77}{figure.caption.155}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Surat Izin Kerja Praktek}}{A - 2}{figure.caption.157}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Dokumentasi Kerja Praktek}}{C - 1}{figure.caption.158}%
+\contentsline {figure}{\numberline {C.2}{\ignorespaces Dokumentasi Kerja Praktek}}{C - 1}{figure.caption.159}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {D.1}{\ignorespaces \textit {Source Code}}}{D - 1}{figure.caption.160}%

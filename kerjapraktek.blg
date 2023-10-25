@@ -1,0 +1,97 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: kerjapraktek.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: kontrol/cover.aux
+Reallocating 'name_of_file' (item size: 1) to 37 items.
+A level-1 auxiliary file: kontrol/lembarPengesahanInstansi.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: kontrol/lembarPengesahanProdi.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: halamandepan/kataPengantar.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: halamandepan/abstrak.aux
+Reallocating 'name_of_file' (item size: 1) to 32 items.
+A level-1 auxiliary file: halamandepan/abstrakInggris.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: konten/bab1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: konten/bab2.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: konten/bab3.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: konten/bab4.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: konten/bab5.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: halamanbelakang/lampiranA.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: halamanbelakang/lampiranB.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: halamanbelakang/lampiranC.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: halamanbelakang/lampiranD.aux
+Reallocating 'name_of_file' (item size: 1) to 39 items.
+A level-1 auxiliary file: halamanbelakang/daftarRiwayatHidup.aux
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: konfigurasi/daftarpustaka.bib
+Warning--entry type for "lab-si-website" isn't style-file defined
+--line 185 of file konfigurasi/daftarpustaka.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--`others' not consistent with 6th ed. of the APA Manual
+Warning--`others' not consistent with 6th ed. of the APA Manual
+Warning--`others' not consistent with 6th ed. of the APA Manual
+Warning--`others' not consistent with 6th ed. of the APA Manual
+You've used 20 entries,
+            6951 wiz_defined-function locations,
+            1396 strings with 14924 characters,
+and the built_in function-call counts, 41677 in all, are:
+= -- 5185
+> -- 315
+< -- 2188
++ -- 2247
+- -- 50
+* -- 2776
+:= -- 8072
+add.period$ -- 77
+call.type$ -- 20
+change.case$ -- 340
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 990
+empty$ -- 1487
+format.name$ -- 536
+if$ -- 7689
+int.to.chr$ -- 0
+int.to.str$ -- 60
+missing$ -- 0
+newline$ -- 503
+num.names$ -- 160
+pop$ -- 535
+preamble$ -- 1
+purify$ -- 80
+quote$ -- 0
+skip$ -- 2680
+stack$ -- 0
+substring$ -- 2410
+swap$ -- 580
+text.length$ -- 45
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1800
+warning$ -- 4
+while$ -- 176
+width$ -- 0
+write$ -- 630
+(There were 5 warnings)

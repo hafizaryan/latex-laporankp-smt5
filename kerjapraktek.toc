@@ -1,0 +1,65 @@
+\contentsline {chapter}{LEMBAR PENGESAHAN INSTANSI}{ii}{section*.1}%
+\contentsline {chapter}{\uppercase {LEMBAR PENGESAHAN PROGRAM STUDI}}{iii}{section*.3}%
+\contentsline {chapter}{KATA PENGANTAR}{v}{section*.5}%
+\contentsline {chapter}{ABSTRAK}{vii}{section*.7}%
+\contentsline {chapter}{\emph {ABSTRACT}}{viii}{section*.8}%
+\contentsline {chapter}{DAFTAR ISI}{ix}{chapter*.10}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xii}{chapter*.12}%
+\contentsline {chapter}{DAFTAR TABEL}{xvi}{chapter*.14}%
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Perumusan Masalah}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Batasan Masalah}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Tujuan}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Manfaat}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Sistematika Penulisan}{4}{section.1.6}%
+\contentsline {chapter}{\numberline {2}LANDASAN TEORI}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Profil Instansi}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Sejarah}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Visi}{5}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Misi}{5}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Struktur Organisasi}{6}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Inventaris}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Sistem Informasi Inventaris}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Laboratorium}{7}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Laboratorium Rekayasa Sistem Informasi (RSI)}{7}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Laboratorium Internet (INT)}{7}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Laboratorium \textit {Software Engineering} (SE)}{8}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Web}{8}{section.2.5}%
+\contentsline {section}{\numberline {2.6}\textit {Framework}}{8}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Codeigniter}{8}{section.2.7}%
+\contentsline {section}{\numberline {2.8}\textit {Database}}{9}{section.2.8}%
+\contentsline {section}{\numberline {2.9}MariaDB}{9}{section.2.9}%
+\contentsline {section}{\numberline {2.10}PHP}{9}{section.2.10}%
+\contentsline {section}{\numberline {2.11}XAMPP}{9}{section.2.11}%
+\contentsline {chapter}{\numberline {3}TUGAS KERJA PRAKTEK}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Waktu dan Tempat Pelaksaan Kerja Praktek}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Jadwal Kerja Praktek}{11}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Uraian Kerja Praktek}{11}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Metodologi Kerja Praktek}{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Tahap Perencanaan }{12}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Tahap Pengumpulan Data}{13}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Tahap Implementasi}{13}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Tahap Penulisan Laporan}{13}{subsection.3.2.4}%
+\contentsline {chapter}{\numberline {4}HASIL IMPLEMENTASI}{14}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Analisa Sistem}{14}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Rencana Sistem yang Usulan}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Implementasi Sistem}{15}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Batasan Implementasi}{15}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Implementasi Perangkat Keras (\textit {Hardware})}{15}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Implementasi Perangkat Lunak (\textit {Software})}{16}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Implementasi Basis Data (\textit {Database})}{16}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Implementasi Kode Pemrograman}{24}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}\textit {Routes}}{24}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Model}{28}{subsection.4.8.2}%
+\contentsline {subsection}{\numberline {4.8.3}\textit {View}}{35}{subsection.4.8.3}%
+\contentsline {subsection}{\numberline {4.8.4}\textit {Controller}}{41}{subsection.4.8.4}%
+\contentsline {section}{\numberline {4.9}Hasil Implementasi}{47}{section.4.9}%
+\contentsline {chapter}{\numberline {5}PENUTUP}{78}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{78}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{78}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{}{chapter*.156}%
+\contentsline {chapter}{LAMPIRAN \numberline {A}Surat Izin Kerja Praktek}{A - 1}{appendix.1.A}%
+\contentsline {chapter}{LAMPIRAN \numberline {B}Transkip Wawancara atau Hasil Observasi}{B - 1}{appendix.1.B}%
+\contentsline {chapter}{LAMPIRAN \numberline {C}Dokumentasi}{C - 1}{appendix.1.C}%
+\contentsline {chapter}{LAMPIRAN \numberline {D}Source Code/Interface/Materi Pengmas/Tutorial/Dll}{D - 1}{appendix.1.D}%

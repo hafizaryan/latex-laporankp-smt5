@@ -1,0 +1,98 @@
+%-----------------------------------------------------------------------------------------------%
+%
+% % Oktober 2022
+% Template Latex untuk Laporan Kerja Praktek Program Studi Sistem informasi ini
+% Dikembangkan oleh Daffa Takratama Savra (daffatakratama13@gmail.com)
+
+% Template ini dikembangkan dari template yang dibuat oleh Inggih Permana (inggihjava@gmail.com).
+
+% Orang yang cerdas adalah orang yang paling banyak mengingat kematian.
+%
+%-----------------------------------------------------------------------------------------------%
+
+%-----------------------------------------------------------------------------%
+\chapter{\babSatu}
+%-----------------------------------------------------------------------------%
+
+%-----------------------------------------------------------------------------%
+\section{Latar Belakang}
+%-----------------------------------------------------------------------------%
+Program Studi (Prodi) Sistem Informasi merupakan salah satu program studi yang berada di Fakultas Sains dan Teknologi UIN Suska Riau. Program Studi Sistem Informasi ini dilengkapi laboratorium yang berfungsi sebagai penunjang pelaksanaan Tridharma Perguruan Tinggi, dalam ranah pendidikan tinggi di Indonesia, konsep Tridharma Perguruan Tinggi mengemukakan bahwa perguruan tinggi memiliki tiga peran pokok, yaitu pendidikan, penelitian, dan pengabdian kepada masyarakat, yang bersama-sama menjadikan mereka sebagai lembaga yang berkontribusi pada pembangunan ilmu pengetahuan, teknologi, dan masyarakat secara holistik. Termasuk praktikum yang mendukung pembelajaran bagi mahasiswa dan dosen.
+
+Laboratorium merupakan tempat yang digunakan mahasiswa untuk melakukan kegiatan pengujian, riset ilmiah, praktikum, serta penelitian \cite{putri2013sistem}. Program Studi Sistem Informasi memiliki fasilitas infrastruktur pendukung Tridharma Perguruan Tinggi yang baik, salah satunya adalah laboratorium terpadu di bawah Fakultas Sains dan Teknologi yang dikelola oleh Program Studi Sistem Informasi sejak tahun 2002. Terdapat tiga laboratorium yang dikelola oleh Program Studi Sistem Informasi, yaitu Laboratorium Rekayasa Sistem Informasi (RSI), Laboratorium Internet (INT), dan Laboratorium \textit{Software Engineering} (SE) \cite{lab-si-website}. Ketiga laboratorium tersebut merupakan aset penting yang dapat dimanfaatkan dengan baik untuk mencapai target-target universitas dan menghasilkan lulusan Program Studi Sistem Informasi yang kompeten dalam pendidikan, penelitian, serta pengabdian masyarakat dengan mengintegrasikan nilai-nilai keislaman. Laboratorium-laboratorium tersebut tidak hanya digunakan untuk praktikum mahasiswa sesuai dengan kurikulum, tetapi juga mampu mendukung berbagai kegiatan mahasiswa dan dosen dalam meningkatkan pengetahuan di bidang Sistem Informasi. Laboratorium di Program Studi Sistem Informasi ini dilengkapi dengan sarana dan prasarana yang memadai untuk mendukung pembelajaran mahasiswa. Evaluasi sarana dan prasarana di Laboratorium Program Studi Sistem Informasi dilakukan dengan tujuan meningkatkan pengalaman belajar mahasiswa dalam pemahaman materi, termasuk manajemen inventaris.
+
+Manajemen inventaris merupakan salah satu bentuk pengawasan barang-barang yang ada di Laboratorium Program Studi Sistem Informasi di UIN Suska Riau. Tujuan dari manajemen ini untuk memantau jumlah, kondisi, dan status barang yang ada di laboratorium. Saat ini, proses pengelolaan inventaris masih dilakukan secara manual, dengan pencatatan yang belum menggunakan komputerisasi, yang seringkali mengakibatkan kesulitan dalam memantau dan mengelola data inventaris. Pengolahan data menjadi tidak mudah dan tidak efisien. Untuk mengatasi masalah ini, solusi yang diambil adalah mengimplementasikan sistem informasi inventaris yang disebut SITARIS di Laboratorium Program Studi Sistem Informasi yang merupakan bagian dari penelitian kerja praktek mini proyek. Pada penelitian sebelumnya sudah dilakukan studi kelayakan serta analisa dan perancangan sistem informasi ini. Oleh karena itu pada tahap ini dilakukan implementasi sistem melanjutkan dari penelitian sebelumnya. Implementasi sistem ini menggunakan \textit{Framework} CodeIgniter 4. Ada beberapa kelebihan Codeigniter (CI) dibandingkan dengan Framework PHP lain. Salah satu kelebihan Codeigniter (CI) yaitu berukuran kecil, ukuran Codeigniter yang kecil merupakan keunggulan tersendiri dibanding \textit{Framework} lainnya yang berukuran besar yang membutuhkan \textit{resource} yang besar pula untuk berjalan. Pada Codeigniter, bisa diatur agar sistem \textit{me-load library} yang dibutuhkan saja, sehingga dapat berjalan ringan dan cepat dalam pengembangan sistem informasi yang akan dibangun \cite{hamonangan2021perancangan}. Maka dipilihlah \textit{Framework} CodeIgniter 4 untuk implementasi sistem informasi inventaris ini.
+
+%-----------------------------------------------------------------------------%
+\section{Perumusan Masalah}
+%-----------------------------------------------------------------------------%
+Berdasarkan permasalahan yang ada di Laboratorium Program Studi Sistem Informasi, dapat dirumuskan permasalahan yaitu:
+\begin{enumerate}
+  \item Bagaimana implementasi sistem informasi yang efektif dan efisien di lingkungan Laboratorium Program Studi Sistem Informasi?
+  \item Bagaimana penerapan \textit{Framework} CodeIgniter 4 dalam implementasi sistem informasi inventaris untuk mempermudah pengelolaan barang di Laboratorium Program Studi Sistem Informasi?
+\end{enumerate}
+
+Dengan merumuskan permasalahan dalam bentuk pertanyaan-pertanyaan ini, penelitian ini bertujuan untuk mengarahkan fokus pada implementasi sistem informasi inventaris yang optimal dan implementasi \textit{Framework} CodeIgniter 4 dalam konteks studi kasus di Laboratorium Program Studi Sistem Informasi UIN SUSKA Riau.
+
+%-----------------------------------------------------------------------------%
+\section{Batasan Masalah}
+%-----------------------------------------------------------------------------%
+Agar pembahasan tidak menyimpang dan melebar dari permasalahan maka penulis membatasi masalah hanya pada:
+\begin{enumerate}
+  \item Implementasi sistem ini dilakukan dengan menggunakan bahasa pemograman PHP dan  \textit{database} MariaDB.
+  \item Implementasi sistem ini dilakukan dengan menggunakan \textit{Framework} CodeIgniter 4.
+\end{enumerate}
+
+%-----------------------------------------------------------------------------%
+\section{Tujuan}
+%-----------------------------------------------------------------------------%
+Tujuan dari kerja praktek ini adalah untuk membangun sistem informasi inventaris (SITARIS) menggunakan \textit{Framework} CodeIgniter 4 yang mampu mempermudah proses pengelolaan inventaris dan meningkatkan efisiensi dalam pengolahan data barang yang terdapat pada Laboratorium Sistem Informasi.
+
+%-----------------------------------------------------------------------------%
+\section{Manfaat}
+%-----------------------------------------------------------------------------%
+
+Manfaat dari pembangunan sistem informasi inventaris Laboratorium Prodi Sistem Informasi dengan menggunakan \textit{Framework} CodeIgniter 4 dalam pengembangan sistem informasi yang akan dibangun adalah sebagai berikut:
+
+\begin{enumerate}
+  \item Sistem ini akan memungkinkan pengolahan data barang yang masuk ke Laboratorium Program Studi Sistem Informasi menjadi lebih efisien, mengurangi waktu dan upaya yang dibutuhkan.
+  \item Sistem ini memudahkan proses pengelolaan inventaris di Laboratorium Program Studi Sistem Informasi, sehingga pengelolaan barang-barang tersebut dapat dilakukan dengan lebih efektif dan efisien.
+  \item Laboratorium Program Studi Sistem Informasi akan mampu mengelola inventaris dengan lebih baik dan terkomputerisasi, mengurangi potensi kesalahan manusia dan meningkatkan keakuratan data inventaris.
+  \item Sistem ini memungkinkan akses yang lebih efisien ke informasi inventaris, memungkinkan staf Laboratorium untuk menemukan informasi yang mereka butuhkan dengan cepat.
+  \item Sistem ini dapat digunakan untuk memantau kondisi barang di Laboratorium, termasuk pemeliharaan dan perbaikan yang mungkin diperlukan.
+  \item Sistem ini dapat digunakan untuk menyimpan data dokumentasi berupa surat atau foto dan video yang berhubungan dengan Laboratorium Program Studi Sistem Informasi.
+  \item Sistem ini dapat dilakukan untuk pengelolaan peminjaman barang dan ruangan dengan lebih efisien.
+  \item Dengan data inventaris yang terkomputerisasi dan akurat, staf Laboratorium dapat membuat keputusan yang lebih baik terkait dengan perawatan, pengadaan, dan alokasi sumber daya.
+
+\end{enumerate}
+
+Dengan demikian, pengembangan sistem informasi inventaris dengan menggunakan \textit{Framework} CodeIgniter 4 akan memberikan banyak manfaat bagi Laboratorium Sistem Informasi, meningkatkan efisiensi, keakuratan, dan efektivitas dalam pengelolaan inventaris.
+
+%-----------------------------------------------------------------------------%
+\section{Sistematika Penulisan}
+%-----------------------------------------------------------------------------%
+Sistematika penulisan laporan kerja praktek ini di bagi dengan 5 (lima) bab.
+Berikut ini masing-masing penjelasan setiap bab:
+
+
+\textbf{BAB 1. \babSatu}
+
+Pada bagian ini meliputi latar belakang, rumusan masalah, tujuan kerja praktek, manfaat dari kerja praktek serta sistematika penulisan kerja praktek
+
+\textbf{BAB 2. \babDua}
+
+Pada bab ini menjelaskan beberapa teori yang berkaitan dengan penelitian, teori yang bersifat umum dan berkaitan dengan topik penelitian hingga teoriyang bersifat khusus dalam kaitan proses pembuatan sistem informasi.
+
+
+\textbf{BAB 3. \babTiga}
+
+Pada bab ini menjelaskan mengenai gambaran dari pelaksanaan kerja praktek yang akan dilakukan dan metodologi kerja praktek.
+
+
+\textbf{BAB 4. HASIL IMPLEMENTASI}
+
+Bagian ini membahas uraian tentang analisa sistem yang akan dibuat, rencana sistem yang diusulkan dan hasil dari sistem yang diusulkan, perancangan database, perancangan sistem, hingga tahap implementasi sistem.
+
+\textbf{BAB 5. \babLima}
+
+Bab ini berisikan kesimpulan mengenai hasil dari perancangan sistem yang telah dibuat, dan saran dari pembaca apabila ingin mengembangkan aplikasi ini lebih lanjut.

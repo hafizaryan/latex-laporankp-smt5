@@ -1,0 +1,556 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{Ahsyar}%
+}{%
+{Ahsyar}%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+lab-si-website}
+\APACinsertmetastar {%
+lab-si-website}%
+\begin{APACrefauthors}%
+{Ahsyar}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Laboratorium Sistem Informasi UIN Suska Riau.} {Laboratorium
+  sistem informasi uin suska riau.}
+\newblock
+\begin{APACrefURL} \url{https://lab-si.uin-suska.ac.id} \end{APACrefURL}
+\newblock
+\APACrefnote{Akses Tanggal: 14 Oktober 2023}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cowls%
+, Tsamados%
+, Taddeo%
+\BCBL {}\ \BBA {} Floridi%
+}{%
+Cowls%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+Cowls2021ADB}
+\APACinsertmetastar {%
+Cowls2021ADB}%
+\begin{APACrefauthors}%
+Cowls, J.%
+, Tsamados, A.%
+, Taddeo, M.%
+\BCBL {}\ \BBA {} Floridi, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A definition, benchmark and database of AI for social
+  good initiatives} {A definition, benchmark and database of ai for social good
+  initiatives}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature Machine Intelligence}{3}{}{111 - 115}.
+\newblock
+\begin{APACrefURL} \url{https://api.semanticscholar.org/CorpusID:233940459}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fadllullah%
+, Mulyadi%
+, Rochaniati%
+\BCBL {}\ \BBA {} Nabil%
+}{%
+Fadllullah%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+Fadllullah2022PengembanganSI}
+\APACinsertmetastar {%
+Fadllullah2022PengembanganSI}%
+\begin{APACrefauthors}%
+Fadllullah, A.%
+, Mulyadi, M.%
+, Rochaniati, R.%
+\BCBL {}\ \BBA {} Nabil, F\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pengembangan Sistem Informasi Manajemen Kearsipan Surat
+  Menyurat Berbasis Framework Codeigniter untuk KPH-KTT} {Pengembangan sistem
+  informasi manajemen kearsipan surat menyurat berbasis framework codeigniter
+  untuk kph-ktt}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{JATISI (Jurnal Teknik Informatika dan Sistem
+  Informasi)}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://api.semanticscholar.org/CorpusID:249829228}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Firdaus%
+\ \BBA {} Irfan%
+}{%
+Firdaus%
+\ \BBA {} Irfan%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+firdaus2020rancang}
+\APACinsertmetastar {%
+firdaus2020rancang}%
+\begin{APACrefauthors}%
+Firdaus, N.%
+\BCBT {}\ \BBA {} Irfan, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Rancang Bangun Sistem Informasi Arsip Berbasis Web
+  Menggunakan Framework Codeigniter} {Rancang bangun sistem informasi arsip
+  berbasis web menggunakan framework codeigniter}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Voteteknika (Vocational Teknik Elektronika Dan
+  Informatika)}{8}{1}{44--52}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Group%
+\ \protect \BOthers {.}}{%
+Group%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2001}}%
+}]{%
+php2001php}
+\APACinsertmetastar {%
+php2001php}%
+\begin{APACrefauthors}%
+Group, P.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {PHP: Hypertext preprocessor} {Php: Hypertext
+  preprocessor}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{http://jp. php. net/}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hamonangan%
+}{%
+Hamonangan%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+hamonangan2021perancangan}
+\APACinsertmetastar {%
+hamonangan2021perancangan}%
+\begin{APACrefauthors}%
+Hamonangan, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Perancangan Sistem Kepegawaian (Human Resource
+  Management) Berbasis Web Menggunakan Framework Codeigniter di Rumah Sakit
+  Advent Bandar Lampung} {Perancangan sistem kepegawaian (human resource
+  management) berbasis web menggunakan framework codeigniter di rumah sakit
+  advent bandar lampung}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{TeIKa}{11}{2}{153--165}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Huda%
+, Rahayu%
+\BCBL {}\ \protect \BOthers {.}}{%
+Huda%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+huda2022implementasi}
+\APACinsertmetastar {%
+huda2022implementasi}%
+\begin{APACrefauthors}%
+Huda, N.%
+, Rahayu, A.%
+\BCBL {}\ \BOthersPeriod {.}\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Implementasi Sistem Informasi Inventaris Barang pada PT.
+  PLN (Persero) Palembang} {Implementasi sistem informasi inventaris barang
+  pada pt. pln (persero) palembang}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Implementasi Sistem Informasi Inventaris Barang pada
+  PT. PLN (Persero) Palembang}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kelvin%
+\ \BBA {} Amalia%
+}{%
+Kelvin%
+\ \BBA {} Amalia%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+kelvin2022sistem}
+\APACinsertmetastar {%
+kelvin2022sistem}%
+\begin{APACrefauthors}%
+Kelvin, K.%
+\BCBT {}\ \BBA {} Amalia, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sistem Informasi Inventaris Berbasis Qr-Code Dengan
+  Metode Rapid Application Development} {Sistem informasi inventaris berbasis
+  qr-code dengan metode rapid application development}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Information System Research
+  (JOSH)}{4}{1}{111--116}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Laila%
+\ \protect \BOthers {.}}{%
+Laila%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+laila2011sistem}
+\APACinsertmetastar {%
+laila2011sistem}%
+\begin{APACrefauthors}%
+Laila, N.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sistem informasi pengolahan data inventory pada toko
+  buku studi CV. Aneka Ilmu semarang} {Sistem informasi pengolahan data
+  inventory pada toko buku studi cv. aneka ilmu semarang}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jurnal Teknik Elektro}{3}{1}{16}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Novendri%
+, Saputra%
+\BCBL {}\ \BBA {} Firman%
+}{%
+Novendri%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+novendri2019aplikasi}
+\APACinsertmetastar {%
+novendri2019aplikasi}%
+\begin{APACrefauthors}%
+Novendri, M\BPBI S.%
+, Saputra, A.%
+\BCBL {}\ \BBA {} Firman, C\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Aplikasi Inventaris Barang Pada Mts Nurul Islam Dumai
+  Menggunakan Php Dan Mysql} {Aplikasi inventaris barang pada mts nurul islam
+  dumai menggunakan php dan mysql}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{lentera dumai}{10}{2}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nugraha%
+}{%
+Nugraha%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+nugraha2014analisa}
+\APACinsertmetastar {%
+nugraha2014analisa}%
+\begin{APACrefauthors}%
+Nugraha, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Analisa dan perancangan sistem informasi perpustakaan}
+  {Analisa dan perancangan sistem informasi perpustakaan}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Simetris: Jurnal Teknik Mesin, Elektro dan Ilmu
+  Komputer}{5}{1}{27--32}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pakpahan%
+, Fa{\^a}%
+\BCBL {}\ \protect \BOthers {.}}{%
+Pakpahan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+pakpahan2020sistem}
+\APACinsertmetastar {%
+pakpahan2020sistem}%
+\begin{APACrefauthors}%
+Pakpahan, S.%
+, Fa{\^a}, A.%
+\BCBL {}\ \BOthersPeriod {.}\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sistem Informasi Pengelolaan Dana Desa Pada Desa
+  Hilizoliga Berbasis Web} {Sistem informasi pengelolaan dana desa pada desa
+  hilizoliga berbasis web}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jurnal Teknik Informatika UNIKA Santo
+  Thomas}{}{}{109--117}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Priyanti%
+\ \BBA {} Iriani%
+}{%
+Priyanti%
+\ \BBA {} Iriani%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+priyanti2013sistem}
+\APACinsertmetastar {%
+priyanti2013sistem}%
+\begin{APACrefauthors}%
+Priyanti, D.%
+\BCBT {}\ \BBA {} Iriani, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sistem Informasi Data Penduduk Pada Desa Bogoharjo
+  Keccamatan Ngadirojo Kabupaten Pacitan} {Sistem informasi data penduduk pada
+  desa bogoharjo keccamatan ngadirojo kabupaten pacitan}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Indonesian Journal of Networking and Security
+  (IJNS)}{2}{4}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Putri%
+}{%
+Putri%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+putri2013sistem}
+\APACinsertmetastar {%
+putri2013sistem}%
+\begin{APACrefauthors}%
+Putri, S\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\unskip\
+\newblock
+\APACrefbtitle {Sistem Informasi Inventaris Laboratorium Berbasis Web pada SMA
+  Negeri 4 Yogyakarta} {Sistem informasi inventaris laboratorium berbasis web
+  pada sma negeri 4 yogyakarta}\ \APACtypeAddressSchool {\BUPhD}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {}{Universitas AMIKOM Yogyakarta}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rahman%
+\ \BBA {} Ratna%
+}{%
+Rahman%
+\ \BBA {} Ratna%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+rahman2018perancangan}
+\APACinsertmetastar {%
+rahman2018perancangan}%
+\begin{APACrefauthors}%
+Rahman, F.%
+\BCBT {}\ \BBA {} Ratna, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Perancangan E-Learning Berbasis Web Menggunakan
+  Framework Codeigniter} {Perancangan e-learning berbasis web menggunakan
+  framework codeigniter}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Technologia: Jurnal Ilmiah}{9}{2}{95--100}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sallaby%
+\ \BBA {} Kanedi%
+}{%
+Sallaby%
+\ \BBA {} Kanedi%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+sallaby2020perancangan}
+\APACinsertmetastar {%
+sallaby2020perancangan}%
+\begin{APACrefauthors}%
+Sallaby, A\BPBI F.%
+\BCBT {}\ \BBA {} Kanedi, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Perancangan Sistem Informasi Jadwal Dokter Menggunakan
+  Framework Codeigniter} {Perancangan sistem informasi jadwal dokter
+  menggunakan framework codeigniter}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jurnal Media Infotama}{16}{1}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Simanullang%
+, Silalahi%
+\BCBL {}\ \BBA {} Manalu%
+}{%
+Simanullang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+simanullang2021sistem}
+\APACinsertmetastar {%
+simanullang2021sistem}%
+\begin{APACrefauthors}%
+Simanullang, H\BPBI G.%
+, Silalahi, A\BPBI P.%
+\BCBL {}\ \BBA {} Manalu, D\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sistem Informasi Pendaftaran Mahasiswa Baru Menggunakan
+  Framework Codeigniter dan Application Programming Interface} {Sistem
+  informasi pendaftaran mahasiswa baru menggunakan framework codeigniter dan
+  application programming interface}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ultima InfoSys: Jurnal Ilmu Sistem
+  Informasi}{12}{1}{67--73}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sweden%
+\ \protect \BOthers {.}}{%
+Sweden%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+sweden2022rancang}
+\APACinsertmetastar {%
+sweden2022rancang}%
+\begin{APACrefauthors}%
+Sweden, I\BPBI N.%
+, Pemayun, A\BPBI A\BPBI G\BPBI M.%
+, Wibawa, K\BPBI S.%
+, Prayoga, I\BPBI K\BPBI D\BPBI Y.%
+, Putra, I\BPBI D\BPBI M\BPBI L.%
+\BCBL {}\ \BBA {} Frangginie, N\BPBI L\BPBI G\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Rancang Bangun Sistem Informasi Manajemen Layanan
+  Laboratorium Berdasarkan Standar ISO 9126} {Rancang bangun sistem informasi
+  manajemen layanan laboratorium berdasarkan standar iso 9126}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{TEMATIK}{9}{2}{108--118}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tyowati%
+\ \BBA {} Irawan%
+}{%
+Tyowati%
+\ \BBA {} Irawan%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+tyowati2017implementasi}
+\APACinsertmetastar {%
+tyowati2017implementasi}%
+\begin{APACrefauthors}%
+Tyowati, S.%
+\BCBT {}\ \BBA {} Irawan, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Implementasi Framework Codeignter Untuk Pengembangan
+  Website Pada Dinas Perkebunan Provinsi Kalimantan Tengah} {Implementasi
+  framework codeignter untuk pengembangan website pada dinas perkebunan
+  provinsi kalimantan tengah}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{J. SAINTEKOM}{7}{1}{67}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yanti%
+\ \BBA {} Hidayat%
+}{%
+Yanti%
+\ \BBA {} Hidayat%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Yanti2021SISTEMII}
+\APACinsertmetastar {%
+Yanti2021SISTEMII}%
+\begin{APACrefauthors}%
+Yanti, Y.%
+\BCBT {}\ \BBA {} Hidayat, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {SISTEM INFORMASI INVENTARIS BARANG DI FAKULTAS TEKNIK
+  DAN ILMU KOMPUTER} {Sistem informasi inventaris barang di fakultas teknik dan
+  ilmu komputer}.{\BBCQ}.
+\newblock
+\begin{APACrefURL} \url{https://api.semanticscholar.org/CorpusID:236409760}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
