@@ -1,7 +1,5 @@
 # SITARIS - Sistem Informasi Inventaris
 
-SITARIS
-
 Ini adalah repositori untuk proyek mini SITARIS, yang dibuat dalam konteks mata kuliah Semester 5. Laporan kerja praktek dalam format LaTeX juga dapat ditemukan dalam repositori ini.
 
 ## Deskripsi Proyek
