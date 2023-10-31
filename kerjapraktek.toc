@@ -1,11 +1,11 @@
 \contentsline {chapter}{LEMBAR PENGESAHAN INSTANSI}{ii}{section*.1}%
 \contentsline {chapter}{\uppercase {LEMBAR PENGESAHAN PROGRAM STUDI}}{iii}{section*.3}%
-\contentsline {chapter}{KATA PENGANTAR}{v}{section*.5}%
-\contentsline {chapter}{ABSTRAK}{vii}{section*.7}%
-\contentsline {chapter}{\emph {ABSTRACT}}{viii}{section*.8}%
-\contentsline {chapter}{DAFTAR ISI}{ix}{chapter*.10}%
-\contentsline {chapter}{DAFTAR GAMBAR}{xii}{chapter*.12}%
-\contentsline {chapter}{DAFTAR TABEL}{xvi}{chapter*.14}%
+\contentsline {chapter}{KATA PENGANTAR}{iv}{section*.5}%
+\contentsline {chapter}{ABSTRAK}{vi}{section*.7}%
+\contentsline {chapter}{\emph {ABSTRACT}}{vii}{section*.8}%
+\contentsline {chapter}{DAFTAR ISI}{viii}{chapter*.10}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xi}{chapter*.12}%
+\contentsline {chapter}{DAFTAR TABEL}{xv}{chapter*.14}%
 \contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Perumusan Masalah}{2}{section.1.2}%

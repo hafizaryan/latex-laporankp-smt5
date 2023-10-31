@@ -1,6 +1,6 @@
-PWD e:\My Drive\Semester 5\Kerja Praktek\Laporan\Latex\latex_laporankpsmt5
+PWD c:\xampp\htdocs\all project\latex-laporankp-smt5
 INPUT C:\Users\hafiz_xz\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT e:\My Drive\Semester 5\Kerja Praktek\Laporan\Latex\latex_laporankpsmt5\kerjapraktek.tex
+INPUT c:\xampp\htdocs\all project\latex-laporankp-smt5\kerjapraktek.tex
 OUTPUT kerjapraktek.log
 INPUT C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
