@@ -1,6 +1,6 @@
-PWD c:\xampp\htdocs\all project\latex-laporankp-smt5
+PWD c:\xampp\htdocs\allproject\latex-laporankp-smt5
 INPUT C:\Users\hafiz_xz\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\xampp\htdocs\all project\latex-laporankp-smt5\kerjapraktek.tex
+INPUT c:\xampp\htdocs\allproject\latex-laporankp-smt5\kerjapraktek.tex
 OUTPUT kerjapraktek.log
 INPUT C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\hafiz_xz\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -1496,6 +1496,20 @@ INPUT .\konten\\gambar\Dokumentasi KP 2.jpg
 INPUT .\konten\\gambar\Dokumentasi KP 2.jpg
 INPUT .\konten\\gambar\Dokumentasi KP 2.jpg
 INPUT .\konten\\gambar\Dokumentasi KP 2.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 3.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 3.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 3.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 3.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 3.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 3.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 3.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 4.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 4.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 4.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 4.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 4.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 4.jpg
+INPUT .\konten\\gambar\Dokumentasi KP 4.jpg
 INPUT .\halamanbelakang\lampiranD.tex
 INPUT .\halamanbelakang\lampiranD.tex
 OUTPUT halamanbelakang\lampiranD.aux
