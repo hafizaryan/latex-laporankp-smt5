@@ -15,4 +15,4 @@ Proyek SITARIS adalah sistem informasi inventaris yang dibangun untuk mengelola 
 
 ## Panduan Pengguna
 
-Jika Anda ingin menggunakan SITARIS atau berkontribusi pada proyek ini, pastikan Anda telah membaca panduan pengguna dan dokumentasi yang ada di direktori `documentation`. Pastikan juga Anda telah menginstal semua dependensi yang diperlukan sebelum mencoba menjalankan aplikasi.
+Jika Anda ingin membaca laporan kerja praktek saya, dapat dilakukan dengan melihat file kerjapraktek.pdf pada repository
