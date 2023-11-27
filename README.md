@@ -9,10 +9,8 @@ Proyek SITARIS adalah sistem informasi inventaris yang dibangun untuk mengelola 
 ## Struktur Repositori
 
 - `laporan-kerja-praktek/` - Direktori berisi file LaTeX untuk laporan kerja praktek.
-- `source-code/` - Direktori berisi kode sumber aplikasi SITARIS.
-- `documentation/` - Dokumentasi proyek, termasuk spesifikasi sistem dan panduan pengguna.
-- `tests/` - Direktori berisi berkas pengujian.
 
 ## Panduan Pengguna
 
-Jika Anda ingin membaca laporan kerja praktek saya, dapat dilakukan dengan melihat file kerjapraktek.pdf pada repository
+Jika Anda ingin membaca laporan kerja praktek saya, dapat dilakukan dengan melihat file kerjapraktek.pdf pada repository ini.
+
